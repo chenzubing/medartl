@@ -1,0 +1,4176 @@
+PMID- 34853654
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211203
+IS  - 1948-5204 (Print)
+IS  - 1948-5204 (Electronic)
+VI  - 13
+IP  - 11
+DP  - 2021 Nov 15
+TI  - Anatomical vs nonanatomical liver resection for solitary hepatocellular 
+      carcinoma: A systematic review and meta-analysis.
+PG  - 1833-1846
+LID - 10.4251/wjgo.v13.i11.1833 [doi]
+AB  - BACKGROUND: The long-term survival of patients with solitary hepatocellular 
+      carcinoma (HCC) following anatomical resection (AR) vs non-anatomical resection 
+      (NAR) is still controversial. It is necessary to investigate which approach is 
+      better for patients with solitary HCC. AIM: To compare perioperative and 
+      long-term survival outcomes of AR and NAR for solitary HCC. METHODS: We performed 
+      a comprehensive literature search of PubMed, Medline (Ovid), Embase (Ovid), and 
+      Cochrane Library. Participants of any age and sex, who underwent liver resection, 
+      were considered following the following criteria: (1) Studies reporting AR vs NAR 
+      liver resection; (2) Studies focused on primary HCC with a solitary tumor; (3) 
+      Studies reporting the long-term survival outcomes (> 5 years); and (4) Studies 
+      including patients without history of preoperative treatment. The main results 
+      were overall survival (OS) and disease-free survival (DFS). Perioperative 
+      outcomes were also compared. RESULTS: A total of 14 studies, published between 
+      2001 and 2020, were included in our meta-analysis, including 9444 patients who 
+      were mainly from China, Japan, and Korea. AR was performed on 4260 (44.8%) 
+      patients. The synthetic results showed that the 5-year OS [odds ratio (OR): 1.19; 
+      P < 0.001] and DFS (OR: 1.26; P < 0.001) were significantly better in the AR 
+      group than in the NAR group. AR was associated with longer operating time [mean 
+      difference (MD): 47.08; P < 0.001], more blood loss (MD: 169.29; P = 0.001), and 
+      wider surgical margin (MD = 1.35; P = 0.04) compared to NAR. There was no obvious 
+      difference in blood transfusion ratio (OR: 1.16; P = 0.65) or postoperative 
+      complications (OR: 1.24, P = 0.18). CONCLUSION: AR is superior to NAR in terms of 
+      long-term outcomes. Thus, AR can be recommended as a reasonable surgical option 
+      in patients with solitary HCC.
+CI  - ©The Author(s) 2021. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Liu, Hu
+AU  - Liu H
+AD  - Department of Liver Surgery, Liver Transplantation Division, Laboratory of Liver 
+      Surgery, West China Hospital, Sichuan University, Chengdu 610041, Sichuan 
+      Province, China.
+FAU - Hu, Feng-Juan
+AU  - Hu FJ
+AD  - The Center of Gerontology and Geriatrics, West China Hospital, Sichuan 
+      University, Chengdu 610041, Sichuan Province, China.
+FAU - Li, Hui
+AU  - Li H
+AD  - Department of Liver Surgery, Liver Transplantation Division, Laboratory of Liver 
+      Surgery, West China Hospital, Sichuan University, Chengdu 610041, Sichuan 
+      Province, China.
+FAU - Lan, Tian
+AU  - Lan T
+AD  - Department of Liver Surgery, Liver Transplantation Division, Laboratory of Liver 
+      Surgery, West China Hospital, Sichuan University, Chengdu 610041, Sichuan 
+      Province, China.
+FAU - Wu, Hong
+AU  - Wu H
+AD  - Department of Liver Surgery, Liver Transplantation Division, Laboratory of Liver 
+      Surgery, West China Hospital, Sichuan University, Chengdu 610041, Sichuan 
+      Province, China. wuhong7801@163.com.
+LA  - eng
+PT  - Journal Article
+PL  - China
+TA  - World J Gastrointest Oncol
+JT  - World journal of gastrointestinal oncology
+JID - 101532470
+PMC - PMC8603461
+OTO - NOTNLM
+OT  - Anatomical resection
+OT  - Hepatocellular carcinoma
+OT  - Meta-analysis
+OT  - Non-anatomical resection
+OT  - Solitary tumor
+OT  - Systematic review
+COIS- Conflict-of-interest statement: The authors deny any conflict of interest for 
+      this article.
+EDAT- 2021/12/03 06:00
+MHDA- 2021/12/03 06:01
+CRDT- 2021/12/02 06:36
+PHST- 2021/01/14 00:00 [received]
+PHST- 2021/05/08 00:00 [revised]
+PHST- 2021/07/13 00:00 [accepted]
+PHST- 2021/12/02 06:36 [entrez]
+PHST- 2021/12/03 06:00 [pubmed]
+PHST- 2021/12/03 06:01 [medline]
+AID - 10.4251/wjgo.v13.i11.1833 [doi]
+PST - ppublish
+SO  - World J Gastrointest Oncol. 2021 Nov 15;13(11):1833-1846. doi: 
+      10.4251/wjgo.v13.i11.1833.
+
+PMID- 33412628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210125
+LR  - 20210125
+IS  - 0529-5815 (Print)
+IS  - 0529-5815 (Linking)
+VI  - 59
+IP  - 1
+DP  - 2021 Jan 1
+TI  - [Surgical treatment of primary liver cancer:a report of 10 966 cases].
+PG  - 6-17
+LID - 10.3760/cma.j.cn112139-20201110-00791 [doi]
+AB  - Objective: To summarize the experience of surgical treatment of primary liver 
+      cancer. Methods: The clinical data of 10 966 surgically managed cases with 
+      primary liver cancer, from January 1986 to December 2019 at Hepatobiliary Center, 
+      the First Affiliated Hospital of Nanjing Medical University, were retrospectively 
+      analyzed. The life table method was used to calculate the survival rate and 
+      postoperative recurrence rate. Log-rank test was used to compare the survival 
+      process of different groups, and the Cox regression model was used for 
+      multivariate analysis. In addition, 2 884 cases of hepatocellular carcinoma(HCC) 
+      with more detailed follow-up data from 2009 to 2019 were selected for survival 
+      analysis. Among 2 549 patients treated with hepatectomy, there were 2 107 males 
+      and 442 females, with an age of (56.6±11.1) years (range: 20 to 86 years). Among 
+      335 patients treated with liver transplantation, there were 292 males and 43 
+      females, with an age of (51.0±9.7) years (range: 21 to 73 years). The outcomes of 
+      hepatectomy versus liver transplantation, anatomic versus non-anatomic 
+      hepatectomy were compared, respectively. Results: Of the 10 966 patients with 
+      primary liver cancer, 10 331 patients underwent hepatectomy and 635 patients 
+      underwent liver transplantation. Patients with liver resection were categorized 
+      into three groups: 1986－1995(712 cases), 1996－2008(3 988 cases), 2009‒2019(5 631 
+      cases). The 5-year overall survival rate was 32.9% in the first group(1986－1995). 
+      The 5-year overall survival rate of resected primary liver cancer was 51.7% in 
+      the third group(2009-2019), among which the 5-year overal survival rates of 
+      hepatocellular carcinoma, intrahepatic cholangiocarcinoma and mixed liver cancer 
+      were 57.4%, 26.6% and 50.6%, respectively. Further analysis was performed on 2 
+      549 HCC patients with primary hepatectomy. The 1-, 3-, 5-, and 10-year overall 
+      survival rates were 88.1%, 71.9%, 60.0%, and 41.0%, respectively, and the 
+      perioperative mortality rate was 1.0%. Two hundred and forty-seven HCC patients 
+      underwent primary liver transplantation, with 1-, 3-, 5-, and 10-year overall 
+      survival rates of 84.0%, 64.8%, 61.9%, and 57.6%, respectively. Eighty-eight HCC 
+      patients underwent salvage liver transplantation, with the 1-, 3-, 5-, and 
+      10-year overall survival rates of 86.8%, 65.2%, 52.5%, and 52.5%, respectively. 
+      There was no significant difference in survival rates between the two groups with 
+      liver transplantation (P>0.05). Comparing the overall survival rates and 
+      recurrence rates of primary hepatectomy (2 549 cases) with primary liver 
+      transplantation (247 cases), the 1-, 3-, 5-, and 10-year overall survival rates 
+      in patients within Milan criteria treated with hepatectomy and transplantation 
+      were 96.3%, 87.1%, 76.9%, 54.7%, and 95.4%, 79.4%, 77.4%, 71.7%, respectively 
+      (P=0.754). The 1-, 3-, 5-year recurrence rates were 16.3%, 35.9%, 47.6% and 8.1%, 
+      11.7%, 13.9%, respectively(P<0.01). The 1-, 3-, 5-, 10-year overall survival 
+      rates in patients with no large vessels invasion beyond the Milan criteria 
+      treated with liver resection and transplantation were 87.2%, 65.9%, 53.0%, 33.0% 
+      and 87.6%, 71.8%, 71.8%, 69.3%, respectively(P=0.003); the 1-, 3-, 5-year 
+      recurrence rate were 39.2%, 57.8%, 69.7% and 29.7%, 36.7%, 36.7%, respectively 
+      (P<0.01). The 1-, 3-, 5-, and 10-year overall survival rates in patients with 
+      large vessels invasion treated with liver resection and transplantation were 
+      62.1%, 36.1%, 22.2%, 15.0% and 62.9%, 31.8%,19.9%, 0, respectively (P=0.387); the 
+      1-, 3-, 5-year recurrence rates were 61.5%, 74.7%, 80.8% and 59.7%, 82.9%, 87.2%, 
+      respectively(P=0.909). Independent prognostic factors for both overall survival 
+      and recurrence-free survival rates of HCC patients treated with liver resection 
+      included gender, neoadjuvant therapy, symptoms, AST, intraoperative or 
+      postoperative blood transfusion, tumor number, tumor size, cirrhosis, 
+      macrovascular invasion, microvascular invasion, and pathological differentiation. 
+      Propensity score matching analysis of 443 pairs further showed that there was no 
+      significant difference in overall survival rate between anatomical liver 
+      resection and non-anatomical liver resection(P=0.895), but the recurrence rate of 
+      non-anatomical liver resection was higher than that of anatomical liver 
+      resection(P=0.035). Conclusions: In the past decade, the overall survival rate of 
+      HCC undergoing surgical treatment is significantly higher than before. For HCC 
+      patients with good liver function reservation, surgical resection can be 
+      performed first, and salvage liver transplantation can be performed after 
+      recurrence. The effect of salvage liver transplantation is comparable to that of 
+      primary liver transplantation. As for the choice of liver resection approaches, 
+      non-anatomical resection can reserve more liver tissue and can be selected as 
+      long as the negative margin is guaranteed.
+FAU - Xia, Y X
+AU  - Xia YX
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Zhang, F
+AU  - Zhang F
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Li, X C
+AU  - Li XC
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Kong, L B
+AU  - Kong LB
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Zhang, H
+AU  - Zhang H
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Li, D H
+AU  - Li DH
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Cheng, F
+AU  - Cheng F
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Pu, L Y
+AU  - Pu LY
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Zhang, C Y
+AU  - Zhang CY
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Qian, X F
+AU  - Qian XF
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Wang, P
+AU  - Wang P
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Wang, K
+AU  - Wang K
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Wu, Z S
+AU  - Wu ZS
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Lyu, L
+AU  - Lyu L
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Rao, J H
+AU  - Rao JH
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Wu, X F
+AU  - Wu XF
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Yao, A H
+AU  - Yao AH
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Shao, W Y
+AU  - Shao WY
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Fan, Y
+AU  - Fan Y
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - You, W
+AU  - You W
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Dai, X Z
+AU  - Dai XZ
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Qin, J J
+AU  - Qin JJ
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Li, M Y
+AU  - Li MY
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Zhu, Q
+AU  - Zhu Q
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+FAU - Wang, X H
+AU  - Wang XH
+AD  - Hepatobiliary Center, the First Affiliated Hospital of Nanjing Medical 
+      University;Liver Cancer Institute, Nanjing Medical University, Nanjing 210000, 
+      China.
+LA  - chi
+GR  - 81530048，31930020，81521004/National Natural Science Foundation of China/
+GR  - 2018PT31043，2019PT320015/Chinese Academy of Medical Sciences/
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Wai Ke Za Zhi
+JT  - Zhonghua wai ke za zhi [Chinese journal of surgery]
+JID - 0153611
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Carcinoma, Hepatocellular/mortality/surgery
+MH  - China/epidemiology
+MH  - Disease-Free Survival
+MH  - Female
+MH  - *Hepatectomy/methods/mortality
+MH  - Humans
+MH  - *Liver Neoplasms/mortality/surgery
+MH  - Liver Transplantation
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/surgery
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Survival Rate
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Hepatectomy
+OT  - Liver neoplasms
+OT  - Liver transplantation
+OT  - Prognosis
+OT  - Recurrence
+EDAT- 2021/01/08 06:00
+MHDA- 2021/01/26 06:00
+CRDT- 2021/01/07 22:42
+PHST- 2021/01/07 22:42 [entrez]
+PHST- 2021/01/08 06:00 [pubmed]
+PHST- 2021/01/26 06:00 [medline]
+AID - 10.3760/cma.j.cn112139-20201110-00791 [doi]
+PST - ppublish
+SO  - Zhonghua Wai Ke Za Zhi. 2021 Jan 1;59(1):6-17. doi: 
+      10.3760/cma.j.cn112139-20201110-00791.
+
+PMID- 35070051
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220125
+IS  - 1948-5204 (Print)
+IS  - 1948-5204 (Electronic)
+VI  - 13
+IP  - 12
+DP  - 2021 Dec 15
+TI  - Anatomic resection improved the long-term outcome of hepatocellular carcinoma 
+      patients with microvascular invasion: A prospective cohort study.
+PG  - 2190-2202
+LID - 10.4251/wjgo.v13.i12.2190 [doi]
+AB  - BACKGROUND: The long-term effect of anatomic resection (AR) is better than that 
+      of non-anatomic resection (NAR). At present, there is no study on microvascular 
+      invasion (MVI) and liver resection types. AIM: To explore whether AR improves 
+      long-term survival in patients with hepatocellular carcinoma (HCC) by removing 
+      the peritumoral MVI. METHODS: A total of 217 patients diagnosed with HCC were 
+      enrolled in the study. The surgical margin was routinely measured. According to 
+      the stratification of different tumor diameters, patients were divided into the 
+      following groups: ≤ 2 cm group, 2-5 cm group, and > 5 cm group. RESULTS: In the 
+      2-5 cm diameter group, the overall survival (OS) of MVI positive patients was 
+      significantly better than that of MVI negative patients (P = 0.031). For the MVI 
+      positive patients, there was a statistically significant difference between AR 
+      and NAR (P = 0.027). AR leads to a wider surgical margin than NAR (2.0 ± 2.3 cm 
+      vs 0.7 ± 0.5 cm, P < 0.001). In the groups with tumor diameters < 2 cm, both AR 
+      and NAR can obtain a wide surgical margin, and the surgical margins of AR are 
+      wider than that of NAR (3.5 ± 5.8 cm vs 1.6 ± 0.5 cm, P = 0.048). In the groups 
+      with tumor diameters > 5 cm, both AR and NAR fail to obtain wide surgical margin 
+      (0.6 ± 1.0 cm vs 0.7 ± 0.4 cm, P = 0.491). CONCLUSION: For patients with a tumor 
+      diameter of 2-5 cm, AR can achieve the removal of peritumoral MVI by obtaining a 
+      wide incision margin, reduce postoperative recurrence, and improve prognosis.
+CI  - ©The Author(s) 2021. Published by Baishideng Publishing Group Inc. All rights 
+      reserved.
+FAU - Zhou, Jiang-Min
+AU  - Zhou JM
+AD  - Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan 430030, Hubei Province, China.
+FAU - Zhou, Chen-Yang
+AU  - Zhou CY
+AD  - Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan 430030, Hubei Province, China.
+FAU - Chen, Xiao-Ping
+AU  - Chen XP
+AD  - Translational Medicine Center, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan 430030, Hubei Province, China.
+FAU - Zhang, Zhi-Wei
+AU  - Zhang ZW
+AD  - Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong 
+      University of Science and Technology, Wuhan 430030, Hubei Province, China. 
+      zhiweizhangtjh@163.com.
+LA  - eng
+PT  - Journal Article
+PL  - China
+TA  - World J Gastrointest Oncol
+JT  - World journal of gastrointestinal oncology
+JID - 101532470
+PMC - PMC8713310
+OTO - NOTNLM
+OT  - Anatomic resection
+OT  - Hepatocellular carcinoma
+OT  - Microvascular invasion
+OT  - Recurrence
+OT  - Surgery
+OT  - Surgical margin
+COIS- Conflict-of-interest statement: All the authors have no conflict of interest 
+      related to the manuscript.
+EDAT- 2022/01/25 06:00
+MHDA- 2022/01/25 06:01
+CRDT- 2022/01/24 08:51
+PHST- 2021/05/26 00:00 [received]
+PHST- 2021/07/05 00:00 [revised]
+PHST- 2021/09/15 00:00 [accepted]
+PHST- 2022/01/24 08:51 [entrez]
+PHST- 2022/01/25 06:00 [pubmed]
+PHST- 2022/01/25 06:01 [medline]
+AID - 10.4251/wjgo.v13.i12.2190 [doi]
+PST - ppublish
+SO  - World J Gastrointest Oncol. 2021 Dec 15;13(12):2190-2202. doi: 
+      10.4251/wjgo.v13.i12.2190.
+
+PMID- 29073257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171211
+LR  - 20231031
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 12
+IP  - 10
+DP  - 2017
+TI  - Efficacy and safety of anatomic resection versus nonanatomic resection in 
+      patients with hepatocellular carcinoma: A systemic review and meta-analysis.
+PG  - e0186930
+LID - 10.1371/journal.pone.0186930 [doi]
+LID - e0186930
+AB  - BACKGROUND: The surgical decision of performing anatomic resection (AR) or 
+      nonanatomic resection (NAR) in patients with hepatocellular carcinoma remains 
+      controversial. The aim of the current study is to conduct a meta-analysis on 
+      published results to compare surgical outcomes after AR and NAR. METHODS: A 
+      comprehensive search of the Pubmed, Ovid-Medline, Embase, Cochrane library, and 
+      Science Citation indexes was performed. Overall and disease free survival (DFS), 
+      perioperative mortality and morbidity were the main outcomes. The meta-analysis 
+      was performed using Revman 5.3 statistical software, and the results are 
+      expressed as the relative risk (RR) or weighted mean differences with 95% of 
+      confidence intervals. RESULTS: After application of the exclusion and inclusion 
+      criteria, 25 studies published between 1996~2015 that compared outcomes after AR 
+      and NAR in patients with HCC were identified. A total of 10216 patients were 
+      included in the meta-analysis, 4576 in the AR group and 5640 in the NAR group. 
+      Liver cirrhosis was found in 54.8% (range from 18.8% to 100%) of patients in the 
+      AR group and 67.8% (range from 34.3% to 100%) of patients in the NAR group, 
+      resulting in a RR of 0.45 (I2 = 18%, fixed model, 95% CI 0.39-0.52; Z = 10.31; P 
+      = <0.00001). The meta-analysis revealed a statistically significant 5-year 
+      survival (RR of 1.10, 95% CI 1.03-1.17; Z = 2.92, P = 0.004) and DFS (RR: 1.33, 
+      95% CI 1.18-1.51; Z = 4.46, P <0.00001) advantage for patients undergoing AR 
+      resection compared to NAR. In regards to safety, no statistical significance was 
+      found in mortality and morbidity between the two groups. Eight studies including 
+      1812 patients with small (<5 cm) solitary HCC indicated a better 5-year DFS in 
+      the AR group (41.4%) than in the NAR group (28.6%), with a RR of 1.32 (I2 = 42, 
+      fixed model, 95%CI: 1.15-1.52, Z = 3.86, P = 0.0001). CONCLUSION: The current 
+      study demonstrates better surgical outcomes after AR than NAR in patients with 
+      HCC. Therefore, AR is recommended in resectable HCC, especially with small (<5 
+      cm) solitary tumours.
+FAU - Tan, Yifei
+AU  - Tan Y
+AD  - Liver Transplantation Center, Department of Liver Surgery, West China Hospital of 
+      Sichuan University, Chengdu, Sichuan Province, China.
+FAU - Zhang, Wei
+AU  - Zhang W
+AD  - Liver Transplantation Center, Department of Liver Surgery, West China Hospital of 
+      Sichuan University, Chengdu, Sichuan Province, China.
+FAU - Jiang, Li
+AU  - Jiang L
+AD  - Liver Transplantation Center, Department of Liver Surgery, West China Hospital of 
+      Sichuan University, Chengdu, Sichuan Province, China.
+FAU - Yang, Jiayin
+AU  - Yang J
+AD  - Liver Transplantation Center, Department of Liver Surgery, West China Hospital of 
+      Sichuan University, Chengdu, Sichuan Province, China.
+FAU - Yan, Lunan
+AU  - Yan L
+AD  - Liver Transplantation Center, Department of Liver Surgery, West China Hospital of 
+      Sichuan University, Chengdu, Sichuan Province, China.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Review
+PT  - Systematic Review
+DEP - 20171026
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Carcinoma, Hepatocellular/pathology/*surgery
+MH  - Humans
+MH  - Liver Neoplasms/pathology/*surgery
+MH  - Surgical Procedures, Operative/adverse effects/*methods
+MH  - Treatment Outcome
+PMC - PMC5658101
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2017/10/27 06:00
+MHDA- 2017/12/12 06:00
+CRDT- 2017/10/27 06:00
+PHST- 2016/11/03 00:00 [received]
+PHST- 2017/10/10 00:00 [accepted]
+PHST- 2017/10/27 06:00 [entrez]
+PHST- 2017/10/27 06:00 [pubmed]
+PHST- 2017/12/12 06:00 [medline]
+AID - PONE-D-16-34859 [pii]
+AID - 10.1371/journal.pone.0186930 [doi]
+PST - epublish
+SO  - PLoS One. 2017 Oct 26;12(10):e0186930. doi: 10.1371/journal.pone.0186930. 
+      eCollection 2017.
+
+PMID- 33234746
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220418
+IS  - 2508-5859 (Electronic)
+IS  - 2508-5778 (Print)
+IS  - 2508-5859 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2020 Nov 30
+TI  - Long-term outcomes of liver resection for multiple hepatocellular carcinomas: 
+      Single-institution experience with 187 patients.
+PG  - 437-444
+LID - 10.14701/ahbps.2020.24.4.437 [doi]
+AB  - BACKGROUNDS/AIMS: Surgical resection for the treatment of multiple hepatocellular 
+      carcinomas (HCCs) is controversial. This study aimed to evaluate the clinical and 
+      oncological outcomes after liver resection in patients with multiple HCCs. 
+      METHODS: Clinicopathological and survival data of 187 patients who underwent 
+      curative resection for multiple HCCs between June 2004 and December 2016 at Asan 
+      Medical Center, Seoul, South Korea were retrospectively reviewed. The prognostic 
+      factors for recurrence and survival were identified using univariate and 
+      multivariate analyses. RESULTS: Of the 187 patients, 153 (81.8%) had two nodules, 
+      23 (12.3%) had three nodules, and 11 (5.9%) had more than three nodules. Multiple 
+      tumors were located in the ipsilateral lobe in 163 (87.2%) patients. Anatomical 
+      resection, non-anatomical resection, and both types of resections were performed 
+      in 81.3%, 8.0%, and 10.7% patients, respectively. Recurrence occurred in 133 
+      (71.1%) patients, and the mean time to recurrence after surgery was 34.2 months. 
+      Independent risk factors for tumor recurrence in multivariate analyses were 
+      indocyanine green retention rate at 15 min ≥15%, preoperative alpha-fetoprotein 
+      level ≥400 ng/ml, and total tumor diameter ≥6 cm. The 1-, 3-, 5-, and 10-year 
+      disease-free survival rates were 94.1%, 81.7%, 69.7%, and 39.4%, respectively, 
+      and the 1-, 3-, 5-, and 10-year survival rates were 93.5%, 74.2%, 64.9%, and 
+      38.8%, respectively. CONCLUSIONS: Our experience shows that liver resection can 
+      be considered a first-line treatment option for selected patients with multiple 
+      HCCs who have well-preserved liver function.
+FAU - Lee, Soo-Young
+AU  - Lee SY
+AUID- ORCID: 0000-0002-3916-848X
+AD  - Department of Surgery, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Korea.
+FAU - Ahn, Chul-Soo
+AU  - Ahn CS
+AUID- ORCID: 0000-0002-3844-3646
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Yoon, Young-In
+AU  - Yoon YI
+AUID- ORCID: 0000-0002-9308-0366
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Lee, Sung-Gyu
+AU  - Lee SG
+AUID- ORCID: 0000-0001-9161-3491
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Hwang, Shin
+AU  - Hwang S
+AUID- ORCID: 0000-0002-9045-2531
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Kim, Ki-Hun
+AU  - Kim KH
+AUID- ORCID: 0000-0002-4016-0995
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Moon, Deok-Bog
+AU  - Moon DB
+AUID- ORCID: 0000-0002-8209-3540
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Ha, Tae-Yong
+AU  - Ha TY
+AUID- ORCID: 0000-0001-9932-0212
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Song, Gi-Won
+AU  - Song GW
+AUID- ORCID: 0000-0002-4235-0434
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Jung, Dong-Hwan
+AU  - Jung DH
+AUID- ORCID: 0000-0001-5984-023X
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+FAU - Park, Gil-Chun
+AU  - Park GC
+AUID- ORCID: 0000-0003-1631-3258
+AD  - Division of Hepatobiliary Surgery and Liver Transplantation, Department of 
+      Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, 
+      Korea.
+LA  - eng
+PT  - Journal Article
+PL  - Korea (South)
+TA  - Ann Hepatobiliary Pancreat Surg
+JT  - Annals of hepato-biliary-pancreatic surgery
+JID - 101698342
+PMC - PMC7691203
+OTO - NOTNLM
+OT  - Carcinoma
+OT  - Hepatectomy
+OT  - Hepatocellular
+OT  - Multivariate analysis
+OT  - Retrospective studies
+OT  - Survival analysis
+COIS- CONFLICT OF INTEREST There is no conflict of interest.
+EDAT- 2020/11/26 06:00
+MHDA- 2020/11/26 06:01
+CRDT- 2020/11/25 05:38
+PHST- 2020/04/06 00:00 [received]
+PHST- 2020/10/14 00:00 [revised]
+PHST- 2020/10/15 00:00 [accepted]
+PHST- 2020/11/25 05:38 [entrez]
+PHST- 2020/11/26 06:00 [pubmed]
+PHST- 2020/11/26 06:01 [medline]
+AID - ahbps.2020.24.4.437 [pii]
+AID - AHBPS-24-437 [pii]
+AID - 10.14701/ahbps.2020.24.4.437 [doi]
+PST - ppublish
+SO  - Ann Hepatobiliary Pancreat Surg. 2020 Nov 30;24(4):437-444. doi: 
+      10.14701/ahbps.2020.24.4.437.
+
+PMID- 33251141
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220418
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Electronic)
+IS  - 2234-943X (Linking)
+VI  - 10
+DP  - 2020
+TI  - Transarterial Chemoembolization Combined With Hepatectomy for the Treatment of 
+      Intermediate-Stage Hepatocellular Carcinoma.
+PG  - 578763
+LID - 10.3389/fonc.2020.578763 [doi]
+LID - 578763
+AB  - BACKGROUND: Transarterial chemoembolization (TACE) is currently the recommended 
+      treatment for intermediate-stage hepatocellular carcinoma (HCC). Liver resection 
+      (LR) may be an effective option, although recurrences are not uncommon. TACE 
+      prior to LR has been proposed as an even better alternative. METHODS: Patients 
+      with intermediate-stage HCC who underwent curative resection were enrolled 
+      between January 2007 and December 2015. We compared overall survival (OS) and 
+      recurrence-free survival (RFS) for the 2 groups using the Kaplan-Meier method, 
+      and we determined independent risk factors for death and recurrence using 
+      multivariate regression analyses. RESULTS: A total of 488 patients with HCC at 
+      BCLC B (265 patients with LR, 223 patients with TACE+LR) enrolled from our 
+      center. Mean follow-up was 40.2 (range, 3.0-128.7) months. For patients receiving 
+      TACE+LR and LR, estimated 1-, 3-, and 5-year OS rates were 90.6% and 73.3%, 61.7% 
+      and 43.5%, and 52.9% and 33.8%, respectively (all P < 0.001) and estimated 1-, 
+      2-, and 3-year RFS rates were 54.6% and 39.4%, 41.4% and 29.4%, and 36.3% and 
+      26.3%, respectively (P < 0.001, P = 0.002, and P = 0.008, respectively). 
+      Significant independent predictors of poor OS were more than 3 (vs. 3 or fewer) 
+      tumors (HR=2.19, 95% CI 1.69-2.84), non-anatomical (vs. anatomical) hepatectomy 
+      (HR=1.29, 95% CI 1.01-1.66), microscopic vascular invasion (HR=1.46, 95% CI 
+      1.15-.90), cirrhosis (HR=2.41, 95%CI 1.88-3.01), and intraoperative blood 
+      transfusion (HR=1.29, 95% CI 1.01-1.66). CONCLUSION: Preoperative TACE with LR 
+      may result in better oncological outcomes than either TACE or LR alone, without a 
+      substantial increase in morbidity, and could be considered an effective 
+      combination treatment for intermediate-stage HCC.
+CI  - Copyright © 2020 Zhou, Tuo, Li, Wang, Wang, Huang, Chen and Huang.
+FAU - Zhou, Qunfang
+AU  - Zhou Q
+AD  - Department of Minimally Invasive Interventional Therapy, Sun Yat-sen University 
+      Cancer Center, Guangzhou, China.
+FAU - Tuo, Fei
+AU  - Tuo F
+AD  - Department of Ultrasound Diagnose, The First Hospital of Hunan University of 
+      Chinese Medicine, Changsha, China.
+FAU - Li, Ruixia
+AU  - Li R
+AD  - Department of Minimally Invasive Interventional Therapy, Sun Yat-sen University 
+      Cancer Center, Guangzhou, China.
+FAU - Wang, Xiaohui
+AU  - Wang X
+AD  - Department of Hepatobiliary Oncology, Sun Yat-sen University Cancer Center, Sun 
+      Yat-sen University, Guangzhou, China.
+FAU - Wang, Juncheng
+AU  - Wang J
+AD  - Department of Hepatobiliary Oncology, Sun Yat-sen University Cancer Center, Sun 
+      Yat-sen University, Guangzhou, China.
+FAU - Huang, Zhimei
+AU  - Huang Z
+AD  - Department of Minimally Invasive Interventional Therapy, Sun Yat-sen University 
+      Cancer Center, Guangzhou, China.
+FAU - Chen, Minshan
+AU  - Chen M
+AD  - Department of Hepatobiliary Oncology, Sun Yat-sen University Cancer Center, Sun 
+      Yat-sen University, Guangzhou, China.
+FAU - Huang, Jinhua
+AU  - Huang J
+AD  - Department of Minimally Invasive Interventional Therapy, Sun Yat-sen University 
+      Cancer Center, Guangzhou, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20201104
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC7672209
+OTO - NOTNLM
+OT  - combination therapy
+OT  - hepatectomy
+OT  - intermediate hepatocellular carcinoma
+OT  - overall survival
+OT  - transarterial chemoembolization
+EDAT- 2020/12/01 06:00
+MHDA- 2020/12/01 06:01
+CRDT- 2020/11/30 05:54
+PHST- 2020/07/01 00:00 [received]
+PHST- 2020/09/01 00:00 [accepted]
+PHST- 2020/11/30 05:54 [entrez]
+PHST- 2020/12/01 06:00 [pubmed]
+PHST- 2020/12/01 06:01 [medline]
+AID - 10.3389/fonc.2020.578763 [doi]
+PST - epublish
+SO  - Front Oncol. 2020 Nov 4;10:578763. doi: 10.3389/fonc.2020.578763. eCollection 
+      2020.
+
+PMID- 33793713
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210810
+LR  - 20210810
+IS  - 1365-2168 (Electronic)
+IS  - 0007-1323 (Linking)
+VI  - 108
+IP  - 4
+DP  - 2021 Apr 30
+TI  - Prognostic grade for resecting hepatocellular carcinoma: multicentre 
+      retrospective study.
+PG  - 412-418
+LID - 10.1093/bjs/znaa109 [doi]
+AB  - BACKGROUND: Surgical treatment for hepatocellular carcinoma (HCC) is advancing, 
+      but a robust prediction model for survival after resection is not available. The 
+      aim of this study was to propose a prognostic grading system for resection of 
+      HCC. METHODS: This was a retrospective, multicentre study of patients who 
+      underwent first resection of HCC with curative intent between 2000 and 2007. 
+      Patients were divided randomly by a cross-validation method into training and 
+      validation sets. Prognostic factors were identified using a Cox proportional 
+      hazards model. The predictive model was built by decision-tree analysis to define 
+      the resection grades, and subsequently validated. RESULTS: A total of 16 931 
+      patients from 795 hospitals were included. In the training set (8465 patients), 
+      four surgical grades were classified based on prognosis: grade A1 (1236 patients, 
+      14.6 per cent; single tumour 3 cm or smaller and anatomical R0 resection); grade 
+      A2 (3614, 42.7 per cent; single tumour larger than 3 cm, or non-anatomical R0 
+      resection); grade B (2277, 26.9 per cent; multiple tumours, or vascular invasion, 
+      and R0 resection); and grade C (1338, 15.8 per cent; multiple tumours with 
+      vascular invasion and R0 resection, or R1 resection). Five-year survival rates 
+      were 73.9 per cent (hazard ratio (HR) 1.00), 64.7 per cent (HR 1.51, 95 per cent 
+      c.i. 1.29 to 1.78), 50.6 per cent (HR 2.53, 2.15 to 2.98), and 34.8 per cent (HR 
+      4.60, 3.90 to 5.42) for grades A1, A2, B, and C respectively. In the validation 
+      set (8466 patients), the grades had equivalent reproducibility for both overall 
+      and recurrence-free survival (all P < 0.001). CONCLUSION: This grade is used to 
+      predict prognosis of patients undergoing resection of HCC.
+CI  - © The Author(s) 2021. Published by Oxford University Press on behalf of BJS 
+      Society Ltd. All rights reserved. For permissions, please email: 
+      journals.permissions@oup.com.
+FAU - Takayama, T
+AU  - Takayama T
+AD  - Department of Digestive Surgery, Nihon University School of Medicine, Tokyo, 
+      Japan.
+FAU - Yamazaki, S
+AU  - Yamazaki S
+AD  - Department of Digestive Surgery, Nihon University School of Medicine, Tokyo, 
+      Japan.
+FAU - Matsuyama, Y
+AU  - Matsuyama Y
+AD  - Department of Biostatistics, School of Public Health, University of Tokyo, Tokyo, 
+      Japan.
+FAU - Midorikawa, Y
+AU  - Midorikawa Y
+AD  - Department of Digestive Surgery, Nihon University School of Medicine, Tokyo, 
+      Japan.
+FAU - Shiina, S
+AU  - Shiina S
+AD  - Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, 
+      Japan.
+FAU - Izumi, N
+AU  - Izumi N
+AD  - Department of Gastroenterology, Musashino Red Cross Hospital, Tokyo, Japan.
+FAU - Hasegawa, K
+AU  - Hasegawa K
+AD  - Department of Hepato-biliary-pancreatic Surgery, School of Medicine, University 
+      of Tokyo, Tokyo, Japan.
+FAU - Kokudo, N
+AU  - Kokudo N
+AD  - Department of Hepato-biliary-pancreatic Surgery, National Center for Global 
+      Health and Medicine, Tokyo, Japan.
+FAU - Sakamoto, M
+AU  - Sakamoto M
+AD  - Department of Pathology, Keio University School of Medicine, Tokyo, Japan.
+FAU - Kubo, S
+AU  - Kubo S
+AD  - Department of Hepato-biliary-pancreatic Surgery, Osaka City University Graduate 
+      School of Medicine, Osaka, Japan.
+FAU - Kudo, M
+AU  - Kudo M
+AD  - Department of Gastroenterology and Hepatology, Kinki University School of 
+      Medicine, Osaka-Sayama, Japan.
+FAU - Murakami, T
+AU  - Murakami T
+AD  - Department of Radiology, Kobe University Graduate School of Medicine, Kobe, 
+      Japan.
+FAU - Nakashima, O
+AU  - Nakashima O
+AD  - Department of Clinical Laboratory Medicine, Kurume University Hospital, Kurume, 
+      Japan.
+CN  - Liver Cancer Study Group of Japan
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - England
+TA  - Br J Surg
+JT  - The British journal of surgery
+JID - 0372553
+SB  - IM
+MH  - Carcinoma, Hepatocellular/*diagnosis/mortality/pathology/surgery
+MH  - Decision Trees
+MH  - Female
+MH  - Hepatectomy/methods
+MH  - Humans
+MH  - Liver/pathology/surgery
+MH  - Liver Neoplasms/*diagnosis/mortality/pathology/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Grading/methods
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Survival Analysis
+EDAT- 2021/04/02 06:00
+MHDA- 2021/08/11 06:00
+CRDT- 2021/04/01 17:33
+PHST- 2020/01/13 00:00 [received]
+PHST- 2020/03/31 00:00 [revised]
+PHST- 2020/11/03 00:00 [accepted]
+PHST- 2021/04/02 06:00 [pubmed]
+PHST- 2021/08/11 06:00 [medline]
+PHST- 2021/04/01 17:33 [entrez]
+AID - 6124821 [pii]
+AID - 10.1093/bjs/znaa109 [doi]
+PST - ppublish
+SO  - Br J Surg. 2021 Apr 30;108(4):412-418. doi: 10.1093/bjs/znaa109.
+
+PMID- 31417639
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 1837-9664 (Print)
+IS  - 1837-9664 (Electronic)
+IS  - 1837-9664 (Linking)
+VI  - 10
+IP  - 17
+DP  - 2019
+TI  - Anatomical versus Non-anatomical Resection for Hepatocellular Carcinoma with 
+      Microscope Vascular Invasion: A Propensity Score Matching Analysis.
+PG  - 3950-3957
+LID - 10.7150/jca.32592 [doi]
+AB  - Background: The benefits of anatomical resection (AR) and non-anatomical 
+      resection (NAR) on hepatocellular carcinoma (HCC) patients with microscope 
+      vascular invasion (MVI) remain unknown. We aimed to investigate the prognostic 
+      outcomes of AR and NAR for HCC patients with MVI. Study Design: A total of 362 
+      consecutive HCC patients diagnosed with MVI after hepatic resection between 
+      February 2005 and December 2013 were included in this study. The patient outcomes 
+      were compared, and a 1:2 propensity score matching (PSM) analysis was applied to 
+      eliminate selection bias. Results: Before PSM, compared to the NAR group, the AR 
+      group contained more patients that exceeded the Milan criteria, with larger, 
+      unilobar tumors and higher AST levels. After PSM, 100 patients were classified 
+      into the propensity-matched AR group (PS-AR), while 170 were classified into the 
+      propensity-matched NAR group (PS-NAR). Baseline data, including liver function 
+      and tumor burden measurements, were similar in the matched groups. The respective 
+      1-, 3- and 5-year overall survival (OS) rates were 78.9%, 56.9%, and 51.5% in the 
+      PS-AR group and 76.2%, 53.0%, and 42.4% in the PS-NAR group (P = 0.301). The 1-, 
+      3- and 5-year disease-free survival (DFS) rates were 51.1%, 44.7% and 42.0% in 
+      the PS-AR group and 44.9%, 34.3% and 26.4% in the PS-NAR group, respectively (P = 
+      0.039). Multivariate analysis identified AR (P=0.025) as an independent favorable 
+      prognostic factor for DFS in HCC patients with MVI. Conclusions: Anatomical 
+      resection was superior to non-anatomical resection for improving DFS in 
+      hepatocellular carcinoma patients with microscope vascular invasion.
+FAU - Zhong, Xiao-Ping
+AU  - Zhong XP
+AD  - Department of Burn and Plastic Surgery, 2nd Affiliated Hospital of Shantou 
+      University Medical College, Shantou 515041, China.
+FAU - Zhang, Yong-Fa
+AU  - Zhang YF
+AD  - Department of Hepatic Surgery, Fudan University Shanghai Cancer Center, Shanghai, 
+      China; Department of Oncology, Shanghai Medical College, Fudan University, 
+      Shanghai 200032, China.
+FAU - Mei, Jie
+AU  - Mei J
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Li, Shao-Hua
+AU  - Li SH
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Kan, Anna
+AU  - Kan A
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Lu, Liang-He
+AU  - Lu LH
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Chen, Min-Shan
+AU  - Chen MS
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Wei, Wei
+AU  - Wei W
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+FAU - Guo, Rong-Ping
+AU  - Guo RP
+AD  - Department of Hepatobiliary Oncology of Sun Yat-sen University Cancer Center; 
+      State Key Laboratory of Oncology in South China; Collaborative Innovation Center 
+      for Cancer Medicine, Guangzhou 510060, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20190705
+PL  - Australia
+TA  - J Cancer
+JT  - Journal of Cancer
+JID - 101535920
+PMC - PMC6692603
+OTO - NOTNLM
+OT  - Anatomical resection
+OT  - Disease-free survival
+OT  - Hepatocellular carcinoma
+OT  - Microscope vascular invasion
+OT  - Overall survival
+OT  - Propensity score matching
+COIS- Competing Interests: The authors have declared that no competing interest exists.
+EDAT- 2019/08/17 06:00
+MHDA- 2019/08/17 06:01
+CRDT- 2019/08/17 06:00
+PHST- 2018/12/28 00:00 [received]
+PHST- 2019/06/01 00:00 [accepted]
+PHST- 2019/08/17 06:00 [entrez]
+PHST- 2019/08/17 06:00 [pubmed]
+PHST- 2019/08/17 06:01 [medline]
+AID - jcav10p3950 [pii]
+AID - 10.7150/jca.32592 [doi]
+PST - epublish
+SO  - J Cancer. 2019 Jul 5;10(17):3950-3957. doi: 10.7150/jca.32592. eCollection 2019.
+
+PMID- 32150111
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200316
+LR  - 20221005
+IS  - 1536-5964 (Electronic)
+IS  - 0025-7974 (Print)
+IS  - 0025-7974 (Linking)
+VI  - 99
+IP  - 10
+DP  - 2020 Mar
+TI  - Prognostic value of precise hepatic pedicle dissection in anatomical resection 
+      for patients with hepatocellular carcinoma.
+PG  - e19475
+LID - 10.1097/MD.0000000000019475 [doi]
+LID - e19475
+AB  - The present study aimed to investigate the long-term and perioperative outcomes 
+      of precise hepatic pedicle dissection in anatomical resection (precise AR) vs 
+      non-anatomical resection (NAR) for hepatocellular carcinoma (HCC) patients.Data 
+      from a total of 270 consecutive HCC patients who underwent curative hepatectomy 
+      were retrospectively collected. Propensity score matching (PSM) analysis was 
+      performed. The long-term outcomes of precise AR and NAR were analyzed using the 
+      Kaplan-Meier method and the Cox proportional hazards model.The 1-, 3-, and 5-year 
+      overall survival (OS) rates were 90.3%, 76.2%, and 65.7% in the PS-precise AR 
+      group, respectively (n = 103); and 88.3%, 70.5%, and 52.0% in the PS-NAR group, 
+      respectively (n = 103) (P = .043). The 1-, 3-, and 5-year recurrence-free 
+      survival (RFS) rates were 83.4%, 63.2%, and 46.0% in the PS-precise AR group, 
+      respectively; and 75.7%, 47.4%, and 28.3% in the PS-NAR group, respectively 
+      (P = .002). Multivariate analysis showed that ICG-R15, BCLC staging, and 
+      microvascular invasion (MVI) were independent risk factors for OS; while tumor 
+      size, types of resection, surgical margin, and MVI were independent risk factors 
+      for RFS. Subgroup analysis indicated that the RFS rate was significantly better 
+      in the PS-precise AR group than in the PS-NAR group for patients with MVI and 
+      tumor size ≤5 cm.After PSM, precise hepatic pedicle dissection in AR 
+      significantly improved the recurrence-free survival rate of solitary HCC patients 
+      compared with NAR, especially in those with MVI and tumor size ≤5 cm.
+FAU - Zhao, Hui
+AU  - Zhao H
+AD  - Department of Hepatopancreatobiliary Surgery, the Affiliated Wuxi No. 2 People's 
+      Hospital of Nanjing Medical University, Wuxi.
+FAU - Ding, Wen-Zhou
+AU  - Ding WZ
+AD  - Hepatobiliary Center, The First Affiliated Hospital of Nanjing Medical 
+      University, Nanjing, Jiangsu, China.
+FAU - Wang, Hong
+AU  - Wang H
+AD  - Department of Hepatopancreatobiliary Surgery, the Affiliated Wuxi No. 2 People's 
+      Hospital of Nanjing Medical University, Wuxi.
+FAU - Gu, Shen
+AU  - Gu S
+AD  - Department of Hepatopancreatobiliary Surgery, Drum Tower Hospital, Medical School 
+      of Nanjing University.
+FAU - Yan, Xiao-Peng
+AU  - Yan XP
+AD  - Department of Hepatopancreatobiliary Surgery, Drum Tower Hospital, Medical School 
+      of Nanjing University.
+FAU - Sun, Shi-Quan
+AU  - Sun SQ
+AD  - Department of Hepatopancreatobiliary Surgery, Drum Tower Hospital, Medical School 
+      of Nanjing University.
+FAU - Mao, Liang
+AU  - Mao L
+AD  - Department of Hepatopancreatobiliary Surgery, Drum Tower Hospital, Medical School 
+      of Nanjing University.
+FAU - Jin, Hui-Han
+AU  - Jin HH
+AD  - Department of Hepatopancreatobiliary Surgery, the Affiliated Wuxi No. 2 People's 
+      Hospital of Nanjing Medical University, Wuxi.
+FAU - Qiu, Yu-Dong
+AU  - Qiu YD
+AD  - Department of Hepatopancreatobiliary Surgery, Drum Tower Hospital, Medical School 
+      of Nanjing University.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Medicine (Baltimore)
+JT  - Medicine
+JID - 2985248R
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/mortality/*surgery
+MH  - China
+MH  - Cohort Studies
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Hepatectomy
+MH  - Humans
+MH  - Liver Neoplasms/mortality/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/mortality/*surgery
+MH  - Prognosis
+MH  - Proportional Hazards Models
+MH  - Retrospective Studies
+PMC - PMC7478661
+COIS- The authors report no conflicts of interest.
+EDAT- 2020/03/10 06:00
+MHDA- 2020/03/17 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2020/03/10 06:00 [entrez]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2020/03/17 06:00 [medline]
+AID - 00005792-202003060-00067 [pii]
+AID - MD-D-19-03750 [pii]
+AID - 10.1097/MD.0000000000019475 [doi]
+PST - ppublish
+SO  - Medicine (Baltimore). 2020 Mar;99(10):e19475. doi: 10.1097/MD.0000000000019475.
+
+PMID- 27671209
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170922
+LR  - 20170922
+IS  - 1440-1746 (Electronic)
+IS  - 0815-9319 (Linking)
+VI  - 32
+IP  - 4
+DP  - 2017 Apr
+TI  - Anatomical versus non-anatomical resection for solitary hepatocellular carcinoma 
+      without macroscopic vascular invasion: A propensity score matching analysis.
+PG  - 870-878
+LID - 10.1111/jgh.13603 [doi]
+AB  - BACKGROUND AND AIM: The superiority of anatomical resection (AR) in patients with 
+      hepatocellular carcinoma compared with non-anatomical resection (NAR) remains 
+      controversial. We aimed to investigate the prognostic outcomes of AR and NAR for 
+      solitary hepatocellular carcinoma (HCC) patients without macroscopic vascular 
+      invasion, using a propensity score matching (PSM) analysis. METHODS: A total of 
+      305 consecutive HCC patients without macroscopic vascular invasion who underwent 
+      curative hepatectomy were included in our study. PSM was performed in order to 
+      eliminate possible selection bias. RESULTS: By PSM, the patients were divided 
+      into propensity-matched anatomical resection (PS-AR) (n = 114) and 
+      propensity-matched non-anatomical resection (PS-NAR) (n = 114) groups. The 
+      1-year, 3-year, and 5-year overall survival rates were 90.4%, 77.7%, and 65.7% in 
+      PS-AR and 88.6%, 70.7%, and 52.2% in PS-NAR (P = 0.053), respectively. The 
+      1-year, 3-year, and 5-year recurrence-free survival (RFS) rates were 84.1%, 
+      64.9%, and 45.1% in PS-AR and 75.4%, 48.1%, and 31.0% in PS-NAR (P = 0.005), 
+      respectively. Multivariate analysis showed that ICG-R15 (P = 0.022); the 
+      Barcelona clinic liver cancer staging (P = 0.044) and microvascular invasion 
+      (MVI; P = 0.005) were independent risk factors for the overall survival rate, 
+      while type of resection (P = 0.027), surgical margin (P = 0.039), and MVI 
+      (P = 0.024) were independent risk factors for the RFS rate. Patients who 
+      underwent NAR were prone to early recurrence and marginal recurrence. Subgroup 
+      analysis indicated that the RFS rate was significantly better in PS-AR than that 
+      in PS-NAR (surgical margin ≥ 1 cm) (P = 0.025). Better RFS rate was observed in 
+      PS-AR with MVI compared with PS-NAR (P = 0.016). CONCLUSIONS: Anatomical 
+      resection contributed to improve the RFS rate in solitary HCC patients without 
+      macroscopic vascular invasion using PSM analysis, especially in patients with 
+      MVI.
+CI  - © 2016 Journal of Gastroenterology and Hepatology Foundation and John Wiley & 
+      Sons Australia, Ltd.
+FAU - Zhao, Hui
+AU  - Zhao H
+AD  - Department of Hepatopancreatobiliary Surgery, Nanjing Medical University 
+      Affiliated Wuxi Second People's Hospital, Wuxi, Jiangsu, China.
+AD  - Department of Hepatopancreatobiliary Surgery, Nanjing Drum Tower Hospital 
+      Clinical College of Nanjing Medical University, Nanjing, Jiangsu, China.
+FAU - Chen, Chuang
+AU  - Chen C
+AD  - Department of Hepatopancreatobiliary Surgery, Nanjing Drum Tower Hospital 
+      Clinical College of Nanjing Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Hepatopancreatobiliary Surgery, Huai'an Hospital Affiliated to 
+      Xuzhou Medical University, Huai'an, Jiangsu, China.
+FAU - Gu, Shen
+AU  - Gu S
+AD  - Department of Hepatopancreatobiliary Surgery, The Affiliated Drum Tower Hospital 
+      of Nanjing University Medical School, Nanjing, Jiangsu, China.
+FAU - Yan, Xiaopeng
+AU  - Yan X
+AD  - Department of Hepatopancreatobiliary Surgery, The Affiliated Drum Tower Hospital 
+      of Nanjing University Medical School, Nanjing, Jiangsu, China.
+FAU - Jia, Wenjun
+AU  - Jia W
+AD  - Department of Hepatopancreatobiliary Surgery, The Affiliated Drum Tower Hospital 
+      of Nanjing University Medical School, Nanjing, Jiangsu, China.
+FAU - Mao, Liang
+AU  - Mao L
+AD  - Department of Hepatopancreatobiliary Surgery, The Affiliated Drum Tower Hospital 
+      of Nanjing University Medical School, Nanjing, Jiangsu, China.
+FAU - Qiu, Yudong
+AU  - Qiu Y
+AD  - Department of Hepatopancreatobiliary Surgery, Nanjing Drum Tower Hospital 
+      Clinical College of Nanjing Medical University, Nanjing, Jiangsu, China.
+AD  - Department of Hepatopancreatobiliary Surgery, The Affiliated Drum Tower Hospital 
+      of Nanjing University Medical School, Nanjing, Jiangsu, China.
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Australia
+TA  - J Gastroenterol Hepatol
+JT  - Journal of gastroenterology and hepatology
+JID - 8607909
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/mortality/pathology/*surgery
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Hepatectomy/*methods
+MH  - Humans
+MH  - Liver Neoplasms/mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Recurrence, Local
+MH  - Neoplasm Staging
+MH  - *Propensity Score
+MH  - Risk Factors
+MH  - Survival Rate
+MH  - Time Factors
+MH  - Young Adult
+OTO - NOTNLM
+OT  - anatomical hepatectomy
+OT  - hepatocellular carcinoma
+OT  - microvascular invasion
+OT  - non-anatomical hepatectomy
+OT  - propensity score matching analysis
+EDAT- 2016/09/28 06:00
+MHDA- 2017/09/25 06:00
+CRDT- 2016/09/28 06:00
+PHST- 2016/09/17 00:00 [accepted]
+PHST- 2016/09/28 06:00 [pubmed]
+PHST- 2017/09/25 06:00 [medline]
+PHST- 2016/09/28 06:00 [entrez]
+AID - 10.1111/jgh.13603 [doi]
+PST - ppublish
+SO  - J Gastroenterol Hepatol. 2017 Apr;32(4):870-878. doi: 10.1111/jgh.13603.
+
+PMID- 31898106
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210419
+LR  - 20210419
+IS  - 1873-4626 (Electronic)
+IS  - 1091-255X (Linking)
+VI  - 25
+IP  - 1
+DP  - 2021 Jan
+TI  - Is It Just a Matter of Surgical Extension to Achieve the Cure of Hepatocarcinoma? 
+      A Meta-Analysis of Propensity-Matched and Randomized Studies for Anatomic Versus 
+      Parenchyma-Sparing Liver Resection.
+PG  - 94-103
+LID - 10.1007/s11605-019-04494-5 [doi]
+AB  - BACKGROUND: The benefit of anatomic (AR) versus parenchyma-sparing resection 
+      (PSR) in hepatocarcinoma (HCC) is still debated. The aim of the study was to 
+      compare AR vs. PSR in terms of overall survival (OS) and disease-free survival 
+      (DFS). METHODS: A systematic review was conducted using Medline and Google 
+      Scholar. To reduce intra- and inter-study heterogeneity, only propensity-matched 
+      studies and randomized clinical trials (RCT) were evaluated and a generic inverse 
+      variance meta-analysis was run. A sub-analysis was performed in case of tumor 
+      microvascular invasion (MVI). RESULTS: Eleven propensity-matched and one RCT were 
+      evaluated, with a total of 3445 patients (AR = 1776 and PSR = 1669). Tumor burden 
+      and liver function were comparable among studies (I(2) < 50%, p > 0.5). OS was 
+      similar between AR and PSR (HR 0.93; 95%CI, 0.75-1.15; p = 0.50, I(2) = 41%). DFS 
+      was improved in AR at 1 year (RR 0.84; 95%CI, 0.72-0.97; p = 0.02; I(2) = 36%) 
+      and 3 years (RR 0.90; 95%CI, 0.83-0.98; p = 0.02; I(2) = 40%) but not at 5 years 
+      (RR 0.94; 95%CI, 0.87-1.01; p = 0.07; I(2) = 41%). Furthermore, in the presence 
+      of MVI, no difference in OS and DFS was observed between AR and PSR. CONCLUSION: 
+      When liver function and tumor burden are comparable, AR and PSR achieved similar 
+      overall survival. AR improved local control in the early period after surgery. 
+      Furthermore, in the presence of MVI, the extension of surgery was not associated 
+      with better OS and DFS.
+FAU - Famularo, Simone
+AU  - Famularo S
+AUID- ORCID: 0000-0002-9721-6304
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Ceresoli, Marco
+AU  - Ceresoli M
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Giani, Alessandro
+AU  - Giani A
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Ciulli, Cristina
+AU  - Ciulli C
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Pinotti, Enrico
+AU  - Pinotti E
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Romano, Fabrizio
+AU  - Romano F
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - Braga, Marco
+AU  - Braga M
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy.
+FAU - De Carlis, Luciano
+AU  - De Carlis L
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy.
+AD  - General Surgery and Transplantation Unit, ASST Grande Ospedale Metropolitano 
+      Niguarda, Milan, Italy.
+FAU - Gianotti, Luca
+AU  - Gianotti L
+AD  - School of Medicine and Surgery, University of Milano - Bicocca, Monza, Italy. 
+      luca.gianotti@unimib.it.
+AD  - Department of Surgery (4° piano A), San Gerardo Hospital, Via Pergolesi 33, 
+      20900, Monza, Italy. luca.gianotti@unimib.it.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Systematic Review
+DEP - 20200102
+PL  - United States
+TA  - J Gastrointest Surg
+JT  - Journal of gastrointestinal surgery : official journal of the Society for Surgery 
+      of the Alimentary Tract
+JID - 9706084
+SB  - IM
+MH  - *Carcinoma, Hepatocellular/surgery
+MH  - Disease-Free Survival
+MH  - Hepatectomy
+MH  - Humans
+MH  - *Liver Neoplasms/surgery
+MH  - Randomized Controlled Trials as Topic
+OTO - NOTNLM
+OT  - Anatomic resection
+OT  - HCC
+OT  - Hepatocarcinoma
+OT  - Meta-analysis
+OT  - Non-anatomic resection
+OT  - Parenchyma sparing resection
+OT  - Survival
+EDAT- 2020/01/04 06:00
+MHDA- 2021/04/20 06:00
+CRDT- 2020/01/04 06:00
+PHST- 2019/09/20 00:00 [received]
+PHST- 2019/11/26 00:00 [accepted]
+PHST- 2020/01/04 06:00 [pubmed]
+PHST- 2021/04/20 06:00 [medline]
+PHST- 2020/01/04 06:00 [entrez]
+AID - 10.1007/s11605-019-04494-5 [pii]
+AID - 10.1007/s11605-019-04494-5 [doi]
+PST - ppublish
+SO  - J Gastrointest Surg. 2021 Jan;25(1):94-103. doi: 10.1007/s11605-019-04494-5. Epub 
+      2020 Jan 2.
+
+PMID- 27502598
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170316
+LR  - 20181113
+IS  - 1436-2813 (Electronic)
+IS  - 0941-1291 (Linking)
+VI  - 47
+IP  - 2
+DP  - 2017 Feb
+TI  - Clinical factors that affect the outcomes after anatomical versus non-anatomical 
+      resection for hepatocellular carcinoma.
+PG  - 193-201
+LID - 10.1007/s00595-016-1397-2 [doi]
+AB  - PURPOSE: For hepatocellular carcinoma (HCC), the superiority of anatomical 
+      resection (AR) over non-anatomical resection (NR) is still controversial. In this 
+      study, we assessed the potential benefits of AR for HCC. METHODS: We enrolled 173 
+      consecutive patients with HCC who underwent hepatectomy in our hospital from 
+      August 2003 to May 2013 and compared the outcomes for the AR group (n = 125) with 
+      those for the NR group (n = 48). RESULTS: The median observational period was 
+      790 days. The 1- and 2-year overall survival (OS) rates were 92.1 and 85.8 %, 
+      respectively; the 1- and 2-year disease-free survival (DFS) rates were 78.2 and 
+      63.0 %, respectively. The AR and NR groups did not significantly differ in the OS 
+      or DFS. However, the 2-year DFS was significantly better for the AR group than 
+      the NR group among HCV patients (68.2 vs. 32.2 %; P = 0.004) and patients with 
+      alpha-fetoprotein (AFP) within the normal range (<20 ng/ml; 76.7 vs. 60.9 %; 
+      P = 0.031), total bilirubin <0.8 mg/dl (70.8 vs. 47.0 %; P = 0.034), and tumors 
+      2-5 cm in diameter (82.0 vs. 62.5 %; P = 0.025). CONCLUSIONS: If a patient is 
+      HCV-negative, has low AFP, low total bilirubin, or a tumor diameter of 2-5 cm, AR 
+      is recommended.
+FAU - Yamamoto, Takehito
+AU  - Yamamoto T
+AD  - Department of Surgery, Kobe City Medical Center General Hospital, 2-1-1 
+      Minatojima-Minamimachi, Chuo-ku, Kobe, Japan.
+AD  - Department of Gastroenterological Surgery and Oncology, Kitano Hospital, The 
+      Tazuke Kofukai Medical Research Institute, 2-4-20 Ogimachi, Kita-ku, Osaka, 
+      Japan.
+FAU - Yagi, Shintaro
+AU  - Yagi S
+AD  - Department of Surgery, Kobe City Medical Center General Hospital, 2-1-1 
+      Minatojima-Minamimachi, Chuo-ku, Kobe, Japan. shintaro@kuhp.kyoto-u.ac.jp.
+AD  - Division of Hepato-Biliary-Pancreatic Surgery and Transplantation, Department of 
+      Surgery, Kyoto University Graduate School of Medicine, 54 Kawara-cho, Shogoin, 
+      Sakyo-ku, Kyoto, Kyoto, Japan. shintaro@kuhp.kyoto-u.ac.jp.
+FAU - Uryuhara, Kenji
+AU  - Uryuhara K
+AD  - Department of Surgery, Kobe City Medical Center General Hospital, 2-1-1 
+      Minatojima-Minamimachi, Chuo-ku, Kobe, Japan.
+FAU - Kaihara, Satoshi
+AU  - Kaihara S
+AD  - Department of Surgery, Kobe City Medical Center General Hospital, 2-1-1 
+      Minatojima-Minamimachi, Chuo-ku, Kobe, Japan.
+FAU - Hosotani, Ryo
+AU  - Hosotani R
+AD  - Department of Surgery, Kobe City Medical Center General Hospital, 2-1-1 
+      Minatojima-Minamimachi, Chuo-ku, Kobe, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20160808
+PL  - Japan
+TA  - Surg Today
+JT  - Surgery today
+JID - 9204360
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (alpha-Fetoproteins)
+RN  - RFM9X3LJ49 (Bilirubin)
+SB  - IM
+MH  - Aged
+MH  - Bilirubin/blood
+MH  - Biomarkers, Tumor/blood
+MH  - Carcinoma, Hepatocellular/mortality/pathology/*surgery
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Hepacivirus
+MH  - Hepatectomy/*methods/mortality
+MH  - Humans
+MH  - Liver Neoplasms/mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Selection
+MH  - Treatment Outcome
+MH  - alpha-Fetoproteins/analysis
+OTO - NOTNLM
+OT  - Anatomical resection
+OT  - Hepatocellular carcinoma
+OT  - Partial resection
+EDAT- 2016/08/10 06:00
+MHDA- 2017/03/17 06:00
+CRDT- 2016/08/10 06:00
+PHST- 2016/03/21 00:00 [received]
+PHST- 2016/04/25 00:00 [accepted]
+PHST- 2016/08/10 06:00 [pubmed]
+PHST- 2017/03/17 06:00 [medline]
+PHST- 2016/08/10 06:00 [entrez]
+AID - 10.1007/s00595-016-1397-2 [pii]
+AID - 10.1007/s00595-016-1397-2 [doi]
+PST - ppublish
+SO  - Surg Today. 2017 Feb;47(2):193-201. doi: 10.1007/s00595-016-1397-2. Epub 2016 Aug 
+      8.
+
+PMID- 26823044
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180117
+LR  - 20220318
+IS  - 2210-741X (Electronic)
+IS  - 2210-7401 (Linking)
+VI  - 40
+IP  - 4
+DP  - 2016 Sep
+TI  - Prognostic factors for survival after hepatic resection of early hepatocellular 
+      carcinoma in HBV-related cirrhotic patients.
+PG  - 418-27
+LID - S2210-7401(15)00298-3 [pii]
+LID - 10.1016/j.clinre.2015.12.007 [doi]
+AB  - OBJECTIVE: The study aimed to identify clinico-pathologic factors that predict 
+      survival in early hepatocellular carcinoma (HCC) patients with hepatitis B virus 
+      (HBV)-related cirrhosis undergoing liver resection. METHODS: A population-based 
+      cohort was investigated to identify cirrhotic patients with confirmed early HCC 
+      (tumor size≤5cm and absence of nodal involvement, metastases, or major vascular 
+      invasion) after hepatic resection at the Eastern Hepatobiliary Surgery Hospital 
+      (Shanghai, China) from April 2005 and November 2010 using the Surveillance, 
+      Epidemiology, and End Results (SEER) database. These patients were studied 
+      retrospectively in terms of their clinical characteristics and prognostic 
+      factors. Predictors for survival were evaluated using Kaplan-Meier methods and 
+      Cox proportional hazards models. Besides, a simple prognostic scoring system was 
+      proposed to stratify these patients. RESULTS: Of 537 (2.6% of all HCC patients in 
+      this period) cirrhotic patients with early HCC identified who had underwent liver 
+      resection, 87% were male. Median tumor size was 2.9cm, and 67% of patients had 
+      tumors>2cm. Following hepatic resection, overall median and 5-year survival were 
+      75 months and 58%, respectively. Tumor size>2cm (hazard ratio [HR]=1.56), 
+      multifocality (HR=1.34), non-anatomic resection (HR=1.44) and vascular invasion 
+      (HR=2.03) were associated with worse prognosis (P<0.05). Moreover, these patients 
+      could be further stratified into 4 distinct prognostic groups based on the 
+      prognostic scoring system developed. CONCLUSION: Tumor size>2cm, multifocality, 
+      non-anatomic resection and vascular invasion may be used to stratify HBV-related 
+      cirrhotic patients with early HCC after resection. Besides, these data also 
+      indicate that pathologic staging is important even in small HCC.
+CI  - Copyright © 2016 Elsevier Masson SAS. All rights reserved.
+FAU - Zhu, Qian
+AU  - Zhu Q
+AD  - Department of Hepatobiliary Surgery, Jingmen First People's Hospital, 67, 
+      Xiangshan Avenue, 448000 Jingmen, Hubei Province, China.
+FAU - Yuan, Bo
+AU  - Yuan B
+AD  - Department of Hepatobiliary Surgery, 455 Hospital of People's Liberation Army, 
+      200052 Shanghai, China.
+FAU - Qiao, Guo-Liang
+AU  - Qiao GL
+AD  - Department of Medical Oncology, Capital Medical University Cancer Center, Beijing 
+      Shijitan Hospital, 100038 Beijing, China.
+FAU - Yan, Jian-Jun
+AU  - Yan JJ
+AD  - First Department of Hepatic Surgery, Eastern Hepatobiliary Surgery Hospital, 
+      Second Military Medical University, 200438 Shanghai, China.
+FAU - Li, Yun
+AU  - Li Y
+AD  - Department of Hepatobiliary Surgery, Jingmen First People's Hospital, 67, 
+      Xiangshan Avenue, 448000 Jingmen, Hubei Province, China.
+FAU - Duan, Rui
+AU  - Duan R
+AD  - Department of Hepatobiliary Surgery, Jingmen First People's Hospital, 67, 
+      Xiangshan Avenue, 448000 Jingmen, Hubei Province, China.
+FAU - Yan, Yi-Qun
+AU  - Yan YQ
+AD  - First Department of Hepatic Surgery, Eastern Hepatobiliary Surgery Hospital, 
+      Second Military Medical University, 200438 Shanghai, China. Electronic address: 
+      ehbhyyq@163.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20160125
+PL  - France
+TA  - Clin Res Hepatol Gastroenterol
+JT  - Clinics and research in hepatology and gastroenterology
+JID - 101553659
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/etiology/*mortality/pathology/*surgery
+MH  - Child
+MH  - China/epidemiology
+MH  - Cohort Studies
+MH  - Female
+MH  - Hepatectomy
+MH  - Hepatitis B, Chronic/*complications
+MH  - Humans
+MH  - Liver Cirrhosis/*virology
+MH  - Liver Neoplasms/etiology/*mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - SEER Program
+MH  - Young Adult
+EDAT- 2016/01/30 06:00
+MHDA- 2018/01/18 06:00
+CRDT- 2016/01/30 06:00
+PHST- 2015/09/13 00:00 [received]
+PHST- 2015/12/07 00:00 [revised]
+PHST- 2015/12/14 00:00 [accepted]
+PHST- 2016/01/30 06:00 [entrez]
+PHST- 2016/01/30 06:00 [pubmed]
+PHST- 2018/01/18 06:00 [medline]
+AID - S2210-7401(15)00298-3 [pii]
+AID - 10.1016/j.clinre.2015.12.007 [doi]
+PST - ppublish
+SO  - Clin Res Hepatol Gastroenterol. 2016 Sep;40(4):418-27. doi: 
+      10.1016/j.clinre.2015.12.007. Epub 2016 Jan 25.
+
+PMID- 36357739
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230127
+LR  - 20230202
+IS  - 1873-4626 (Electronic)
+IS  - 1091-255X (Linking)
+VI  - 27
+IP  - 1
+DP  - 2023 Jan
+TI  - Parenchymal Sparing Laparoscopic Segmentectomy III and IV with Indocyanine Green 
+      Fluorescence Negative Stain Method Using Glisson Pedicle Approach.
+PG  - 203-204
+LID - 10.1007/s11605-022-05503-w [doi]
+AB  - BACKGROUND: To minimize the loss of functional liver volume in cases of severe 
+      cirrhosis and repeat hepatectomy for recurrence of hepatocellular carcinoma 
+      (HCC), anatomical hepatectomy is gradually extended from major to minor 
+      hepatectomy (Miyama et al. in Cancers (Basel):13, 2021; Ishizawa et al. in Ann 
+      Surg 256:959-964, 2012). For local located HCC, (sub)segmentectomy can yet be 
+      regarded as a choice instead of hemihepatectomy. Indocyanine green (ICG) has been 
+      used for tumor location, navigation of resected margin and liver segment, and 
+      identification of bile leakage. Negative stain that ICG dye was administered 
+      intravenously after occluding the target portal pedicle is more applicable to 
+      sectionectomy or hemihepatectomy, especially in cases where multiple target 
+      pedicles exist or portal vein puncture is difficult to carry out to achieve 
+      anatomic resection. Herein, we present a video of laparoscopic segmentectomy III 
+      and IV with ICG fluorescence negative stain using Glisson Pedicle approach. 
+      METHOD: A 49-year-old woman with hepatitis B related cirrhosis for 2 years was 
+      referred for treatment of a single nodule in segment IV invading the umbilical 
+      portion of left portal vein. The preoperative alpha-fetoprotein (AFP) was 
+      442 ng/ml and protein induced by vitamin K absence or antagonist-II (PIVKA-II) 
+      was 122 mAu/ml. Liver function was Child-Pugh A and indocyanine green retention 
+      test at 15 min (ICG-R15) was 9.2%. The surgical procedure involved the following 
+      steps: (1) Extrahepatic Glisson pedicle dissection based on Laennec's s capsule 
+      (Sugioka et al. in J Hepatobiliary Pancreat Sci 24:17-23, 2017) was performed for 
+      isolation of the pedicles towards segments III and IV in the umbilical fossa. (2) 
+      Demarcation line was revealed and ICG (1 ml, 5 mg/l) was administered 
+      intravenously for the negative stain after dividing the target pedicles. (3) 
+      Parenchyma transection was performed along the border of the negative staining 
+      area in the cranial and caudal direction. RESULTS: Operative time was 220 min and 
+      blood loss was 150 ml with no transfusion. HCC sized 2.5 cm*1.7 cm*1.2 cm was 
+      confirmed in histopathology with a free margin and no microvascular invasion. The 
+      fibrosis of the liver parenchyma was S4 based on Ishak system. The patient was 
+      discharged on the postoperative day 6 without any complications. No recurrence in 
+      residual liver was noted on the CT scan at 9 months during follow-up. CONCLUSION: 
+      Laparoscopic segmentectomy III and IV is an effective procedure for HCC 
+      especially in cases with demands of hepatic parenchymal preservation. ICG 
+      navigation and Glisson Pedicle approach may be particularly helpful.
+CI  - © 2022. The Society for Surgery of the Alimentary Tract.
+FAU - Wan, Haifeng
+AU  - Wan H
+AD  - Department of Liver Transplantation Center, West China Hospital of Sichuan 
+      University, Chengdu, Sichuan Province, China.
+FAU - Xie, Kunlin
+AU  - Xie K
+AD  - Department of Liver Transplantation Center, West China Hospital of Sichuan 
+      University, Chengdu, Sichuan Province, China. xiekun@scu.edu.cn.
+FAU - Wu, Hong
+AU  - Wu H
+AD  - Department of Liver Transplantation Center, West China Hospital of Sichuan 
+      University, Chengdu, Sichuan Province, China. wuhong@scu.edu.cn.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221110
+PL  - United States
+TA  - J Gastrointest Surg
+JT  - Journal of gastrointestinal surgery : official journal of the Society for Surgery 
+      of the Alimentary Tract
+JID - 9706084
+RN  - IX6J1063HV (Indocyanine Green)
+RN  - 0 (Coloring Agents)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Middle Aged
+MH  - *Carcinoma, Hepatocellular/pathology
+MH  - *Liver Neoplasms/pathology
+MH  - Indocyanine Green
+MH  - Negative Staining
+MH  - Pneumonectomy/adverse effects
+MH  - *Laparoscopy/methods
+MH  - Coloring Agents
+MH  - Liver Cirrhosis/surgery/complications
+MH  - Hepatectomy/methods
+OTO - NOTNLM
+OT  - Laparoscopic; Segmentectomy; Indocyanine green fluorescence
+EDAT- 2022/11/12 06:00
+MHDA- 2023/01/28 06:00
+CRDT- 2022/11/11 00:00
+PHST- 2022/06/30 00:00 [received]
+PHST- 2022/09/03 00:00 [accepted]
+PHST- 2022/11/12 06:00 [pubmed]
+PHST- 2023/01/28 06:00 [medline]
+PHST- 2022/11/11 00:00 [entrez]
+AID - 10.1007/s11605-022-05503-w [pii]
+AID - 10.1007/s11605-022-05503-w [doi]
+PST - ppublish
+SO  - J Gastrointest Surg. 2023 Jan;27(1):203-204. doi: 10.1007/s11605-022-05503-w. 
+      Epub 2022 Nov 10.
+
+PMID- 23110904
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130107
+LR  - 20121031
+IS  - 0003-469X (Print)
+IS  - 0003-469X (Linking)
+VI  - 83
+IP  - 6
+DP  - 2012 Nov-Dec
+TI  - Laparoscopic resection of hepatocellular carcinoma. Considerations on lesions in 
+      the posterosuperior segments of the liver.
+PG  - 503-8
+LID - S0003469X12018143 [pii]
+AB  - AIM: The aim of this study was to evaluate retrospectively our results for 
+      laparoscopic liver resection (LLR) of hepatocellular carcinoma (HCC) including 
+      lesions in the posterosuperior segments of the liver in terms of feasibility, 
+      outcome, recurrence and survival. MATERIAL OF STUDY: Between June 2005 and May 
+      2009, we performed 22 LLR for HCC. The underlying cirrhosis was staged as Child A 
+      in 19 cases and Child B in 3. RESULTS: LLR included a non anatomic resection in 
+      15 cases and an anatomic resection in 7. A conversion to laparotomy occurred in 
+      one (4.5%) patient for hemorrhage. Mortality and morbidity rates were 0% and 
+      18.1% (4/20). Over a mean follow-up period of 29 months (range: 19-65 months), 11 
+      (50%) patients presented recurrence, mainly at distance from the surgical site. 
+      DISCUSSION: A laparoscopic approach is more suitable when the lesion is located 
+      in the peripheral "laparoscopic" segments 2 to 6. Nevertheless, six resections 
+      were made in the posterosuperior segments. Although parenchymal-sparing resection 
+      is required by the presence of underlying liver disease, anatomic resection has 
+      always to be considered and pursued to reduce local recurrence. In our series the 
+      recurrence rate was similar to those reported for other laparoscopic studies and 
+      for open resection of HCC. CONCLUSIONS: LLR for HCC in selected patients is a 
+      safe procedure with good short-term results. It can also be proposed in tumor 
+      locations with a difficult surgical access maintaining a low morbidity rate and 
+      good oncologic adequacy. This approach could have an impact on the therapeutic 
+      strategy of HCC complicating cirrhosis as a treatment with curative intent or as 
+      a bridge to liver transplantation.
+FAU - Casaccia, Marco
+AU  - Casaccia M
+AD  - Advanced Laparoscopy Unit, General and Transplant Surgery Dep't., St. Martino 
+      Hospital, University of Genoa, Italy. Marco.Casaccia@unige.it
+FAU - Andorno, Enzo
+AU  - Andorno E
+FAU - Di Domenico, Stefano
+AU  - Di Domenico S
+FAU - Gelli, Maximiliano
+AU  - Gelli M
+FAU - Bottino, Giuliano
+AU  - Bottino G
+FAU - Valente, Umberto
+AU  - Valente U
+LA  - eng
+PT  - Journal Article
+PL  - Italy
+TA  - Ann Ital Chir
+JT  - Annali italiani di chirurgia
+JID - 0372343
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/pathology/*surgery
+MH  - Feasibility Studies
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hepatectomy/adverse effects/*methods
+MH  - Humans
+MH  - *Laparoscopy
+MH  - Liver Neoplasms/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+EDAT- 2012/11/01 06:00
+MHDA- 2013/01/08 06:00
+CRDT- 2012/11/01 06:00
+PHST- 2012/11/01 06:00 [entrez]
+PHST- 2012/11/01 06:00 [pubmed]
+PHST- 2013/01/08 06:00 [medline]
+AID - S0003469X12018143 [pii]
+PST - ppublish
+SO  - Ann Ital Chir. 2012 Nov-Dec;83(6):503-8.
+
+PMID- 24165251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140109
+LR  - 20131029
+IS  - 1555-9823 (Electronic)
+IS  - 0003-1348 (Linking)
+VI  - 79
+IP  - 11
+DP  - 2013 Nov
+TI  - Anatomical versus nonanatomical resection in patients with hepatocellular 
+      carcinoma located in the left lateral segment.
+PG  - 1163-70
+AB  - To date, no reported studies comparing anatomical resection (AR) and 
+      nonanatomical resection (NAR) for hepatocellular carcinoma (HCC) have restricted 
+      cases by tumor location. Thus, right hepatectomy and left lateral sectionectomy 
+      are both analyzed together as AR, whereas limited resection of both peripherally 
+      and centrally located liver tumors is categorized as NAR. This categorization may 
+      result in inaccurate conclusions in the analyses comparing AR and NAR. We 
+      conducted a retrospective comparison between AR (n = 30) and NAR (n = 57) for 
+      solitary and small (5 cm or less) HCC limited to the left lateral segment (LLS) 
+      to clarify whether AR is superior to NAR for HCC in LLS. The 1-, 3-, and 5-year 
+      recurrence-free survival rates were 83.3, 71.3, and 52.9 per cent for the AR 
+      group and 82.5, 51.0, and 40.7 per cent for the NAR group, respectively (P = 
+      0.10). The 3-, 5-, and 7-year overall survival rates were 96.0, 82.8, and 77.9 
+      per cent for the AR group and 84.1, 77.0, and 54.2 per cent for the NAR group, 
+      respectively (P = 0.07). The postoperative complication, recurrence patterns, and 
+      secondary treatment types after recurrence were not significantly different 
+      between the two groups. The multivariate analysis including the confounders 
+      related to background liver function indicated AR to be a significant protective 
+      factor against recurrence, although AR did not influence overall survival. AR was 
+      superior to NAR in preventing recurrence without increasing postoperative risks 
+      among patients with small solitary HCC limited to the LLS, although AR could not 
+      improve overall survival.
+FAU - Sasaki, Kazunari
+AU  - Sasaki K
+AD  - Department of Digestive Surgery, Hepato Pancreato Biliary Surgery Unit, Toranomon 
+      Hospital Tokyo, Japan.
+FAU - Matsuda, Masamichi
+AU  - Matsuda M
+FAU - Ohkura, Yu
+AU  - Ohkura Y
+FAU - Hashimoto, Masaji
+AU  - Hashimoto M
+FAU - Watanabe, Goro
+AU  - Watanabe G
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Am Surg
+JT  - The American surgeon
+JID - 0370522
+SB  - IM
+MH  - Carcinoma, Hepatocellular/mortality/*pathology/*surgery
+MH  - Disease-Free Survival
+MH  - Female
+MH  - *Hepatectomy
+MH  - Humans
+MH  - Liver Neoplasms/mortality/*pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/pathology/*prevention & control
+MH  - Retrospective Studies
+MH  - Survival Rate
+EDAT- 2013/10/30 06:00
+MHDA- 2014/01/10 06:00
+CRDT- 2013/10/30 06:00
+PHST- 2013/10/30 06:00 [entrez]
+PHST- 2013/10/30 06:00 [pubmed]
+PHST- 2014/01/10 06:00 [medline]
+PST - ppublish
+SO  - Am Surg. 2013 Nov;79(11):1163-70.
+
+PMID- 31243714
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210414
+LR  - 20220531
+IS  - 1873-4626 (Electronic)
+IS  - 1091-255X (Linking)
+VI  - 24
+IP  - 7
+DP  - 2020 Jul
+TI  - Effect of Surgical Margin Width on Patterns of Recurrence among Patients 
+      Undergoing R0 Hepatectomy for T1 Hepatocellular Carcinoma: An International 
+      Multi-Institutional Analysis.
+PG  - 1552-1560
+LID - 10.1007/s11605-019-04275-0 [doi]
+AB  - INTRODUCTION: Although a positive surgical margin is a known prognostic factor 
+      for recurrence, the optimal surgical margin width in the context of an R0 
+      resection for early-stage hepatocellular carcinoma (HCC) is still debated. The 
+      aim of the current study was to examine the impact of wide (> 1 cm) versus narrow 
+      (< 1 cm) surgical margin status on the incidence and recurrence patterns among 
+      patients with T1 HCC undergoing an R0 hepatectomy. METHODS: Between 1998 and 
+      2017, patients with T1 HCC who underwent R0 hepatectomy for stage T1 HCC were 
+      identified using an international multi-institutional database. Recurrence-free 
+      survival (RFS) was estimated, and recurrence patterns were examined based on 
+      whether patients had a wide versus narrow resection margins. RESULTS: Among 404 
+      patients, median patient age was 66 years (IQR: 58-73). Most patients (n = 326, 
+      80.7%) had surgical margin < 1 cm, while 78 (19.3%) patients had a > 1 cm margin. 
+      The majority of patients had early recurrences (< 24 months) in both margin width 
+      groups (< 1 cm: 70.3% vs > 1 cm: 85.7%, p = 0.141); recurrence site was mostly 
+      intrahepatic (< 1 cm: 77% vs > 1 cm: 61.9%, p = 0.169). The 1-, 3-, and 5-year 
+      RFS among patients with margin < 1 cm were 77%, 48.9%, and 35.3% versus 81.7%, 
+      65.8%, and 60.7% for patients with margin > 1 cm, respectively (p = 0.02). Among 
+      patients undergoing anatomic resection, resection margin did not impact RFS 
+      (3-year RFS: < 1 cm: 49.2% vs > 1 cm: 58.9%, p = 0.169), whereas in the 
+      non-anatomic resection group, margin width > 1 cm was associated with a better 
+      3-year RFS compared to margin < 1 cm (86.7% vs 47.3%, p = 0.017). On 
+      multivariable analysis, margin > 1 cm remained protective against recurrence 
+      (HR = 0.50, 95%CI 0.28-0.89), whereas Child-Pugh B (HR = 2.13, 95%CI 1.09-4.15), 
+      AFP > 20 ng/mL (HR = 1.71, 95%CI 1.18-2.48), and presence of microscopic 
+      lymphovascular invasion (HR = 1.48, 95%CI 1.01-2.18) were associated with a 
+      higher hazard of recurrence. CONCLUSION: Resection margins > 1 cm predicted 
+      better RFS among patients undergoing R0 hepatectomy for T1 HCC, especially small 
+      (< 5 cm) HCC. Although resection margin width did not influence outcomes after 
+      anatomic resection, wider margins were more important among patients undergoing 
+      non-anatomic liver resections.
+FAU - Tsilimigras, Diamantis I
+AU  - Tsilimigras DI
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Sahara, Kota
+AU  - Sahara K
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+AD  - Yokohama City University School of Medicine, Yokohama, Japan.
+FAU - Moris, Dimitrios
+AU  - Moris D
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Hyer, J Madison
+AU  - Hyer JM
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Paredes, Anghela Z
+AU  - Paredes AZ
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Bagante, Fabio
+AU  - Bagante F
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+AD  - Department of Surgery, University of Verona, Verona, Italy.
+FAU - Merath, Katiuscha
+AU  - Merath K
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Farooq, Ayesha S
+AU  - Farooq AS
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA.
+FAU - Ratti, Francesca
+AU  - Ratti F
+AD  - Department of Surgery, Ospedale San Raffaele, Milan, Italy.
+FAU - Marques, Hugo P
+AU  - Marques HP
+AD  - Department of Surgery, Curry Cabral Hospital, Lisbon, Portugal.
+FAU - Soubrane, Olivier
+AU  - Soubrane O
+AD  - Department of Hepatobiliopancreatic Surgery, APHP, Beaujon Hospital, Clichy, 
+      France.
+FAU - Azoulay, Daniel
+AU  - Azoulay D
+AD  - Department of Hepatobiliopancreatic Surgery, APHP, Beaujon Hospital, Clichy, 
+      France.
+FAU - Lam, Vincent
+AU  - Lam V
+AD  - Department of Surgery, Westmead Hospital, Sydney, Australia.
+FAU - Poultsides, George A
+AU  - Poultsides GA
+AD  - Department of Surgery, Stanford University, Stanford, CA, USA.
+FAU - Popescu, Irinel
+AU  - Popescu I
+AD  - Department of Surgery, Fundeni Clinical Institute, Bucharest, Romania.
+FAU - Alexandrescu, Sorin
+AU  - Alexandrescu S
+AD  - Department of Surgery, Fundeni Clinical Institute, Bucharest, Romania.
+FAU - Martel, Guillaume
+AU  - Martel G
+AD  - Department of Surgery, University of Ottawa, Ottawa, Canada.
+FAU - Guglielmi, Alfredo
+AU  - Guglielmi A
+AD  - Department of Surgery, University of Verona, Verona, Italy.
+FAU - Hugh, Tom
+AU  - Hugh T
+AD  - Department of Surgery, The University of Sydney, School of Medicine, Sydney, 
+      Australia.
+FAU - Aldrighetti, Luca
+AU  - Aldrighetti L
+AD  - Department of Surgery, Ospedale San Raffaele, Milan, Italy.
+FAU - Endo, Itaru
+AU  - Endo I
+AD  - Yokohama City University School of Medicine, Yokohama, Japan.
+FAU - Pawlik, Timothy M
+AU  - Pawlik TM
+AUID- ORCID: 0000-0002-4828-8096
+AD  - Department of Surgery, The Ohio State University Wexner Medical Center, 395 W. 
+      12th Ave., Suite 670, Columbus, OH, USA. tim.pawlik@osumc.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20190626
+PL  - United States
+TA  - J Gastrointest Surg
+JT  - Journal of gastrointestinal surgery : official journal of the Society for Surgery 
+      of the Alimentary Tract
+JID - 9706084
+SB  - IM
+MH  - Aged
+MH  - *Carcinoma, Hepatocellular/surgery
+MH  - Hepatectomy
+MH  - Humans
+MH  - *Liver Neoplasms/surgery
+MH  - Margins of Excision
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/epidemiology
+OTO - NOTNLM
+OT  - Margin
+OT  - Patterns
+OT  - R0 hepatectomy
+OT  - Recurrence
+EDAT- 2019/06/28 06:00
+MHDA- 2021/04/15 06:00
+CRDT- 2019/06/28 06:00
+PHST- 2019/02/07 00:00 [received]
+PHST- 2019/05/17 00:00 [accepted]
+PHST- 2019/06/28 06:00 [pubmed]
+PHST- 2021/04/15 06:00 [medline]
+PHST- 2019/06/28 06:00 [entrez]
+AID - 10.1007/s11605-019-04275-0 [pii]
+AID - 10.1007/s11605-019-04275-0 [doi]
+PST - ppublish
+SO  - J Gastrointest Surg. 2020 Jul;24(7):1552-1560. doi: 10.1007/s11605-019-04275-0. 
+      Epub 2019 Jun 26.
+
+PMID- 30003195
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230926
+IS  - 2475-0328 (Electronic)
+IS  - 2475-0328 (Linking)
+VI  - 2
+IP  - 4
+DP  - 2018 Jul
+TI  - Obesity and recurrence-free survival in patients with hepatocellular carcinoma 
+      after achieving sustained virological response to interferon therapy for chronic 
+      hepatitis C.
+PG  - 319-326
+LID - 10.1002/ags3.12183 [doi]
+AB  - AIM: Some patients who achieve a sustained virological response (SVR) to 
+      interferon (IFN) treatment for chronic hepatitis C prior to hepatic resection for 
+      hepatocellular carcinoma (HCC) experience postoperative recurrence. This study 
+      investigated the relationship between obesity and postoperative HCC recurrence in 
+      SVR patients. METHODS: Fifty-nine patients who had achieved SVR before hepatic 
+      resection were evaluated. Patients had a solitary tumor ≤5 cm in diameter or ≤3 
+      lesions each ≤3 cm in size with no macroscopic vascular invasion (Milan 
+      criteria). Patient characteristics potentially associated with recurrence risk 
+      were investigated. RESULTS: Three-, 5-, and 7-year recurrence-free survival after 
+      surgery were 65%, 44%, and 41%, respectively. Univariate analysis showed that 
+      obesity (P < .01), hypertension (P = .038), and non-anatomical resection (P = 
+      .022) were significantly associated with a lower recurrence-free survival rate. 
+      In a multivariate analysis, obesity (hazard ratio, 2.8; 95% confidence interval 
+      [CI] 1.3-6.1; P < .01) and non-anatomical resection (hazard ratio, 2.7; 95% CI 
+      1.1-6.2; P = .025) were independently associated with postoperative recurrence. 
+      Three-, 5-, and 7-year overall survival rates after surgery were 100%, 80%, and 
+      64% in obese patients and 100%, 92%, and 82% in non-obese patients, respectively 
+      (P = .014). However, other variables showed no significant difference in the 
+      overall survival rate. CONCLUSIONS: Obesity and non-anatomical resection were 
+      independent risk factors for HCC recurrence after hepatic resection and 
+      successful IFN therapy. Obesity is an important clinical problem to consider to 
+      improve postoperative outcomes in such patients.
+FAU - Shinkawa, Hiroji
+AU  - Shinkawa H
+AUID- ORCID: 0000-0002-0164-2414
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Tanaka, Shogo
+AU  - Tanaka S
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Takemura, Shigekazu
+AU  - Takemura S
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Ito, Tokuji
+AU  - Ito T
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Aota, Takanori
+AU  - Aota T
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Koda, Masaki
+AU  - Koda M
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Miyazaki, Toru
+AU  - Miyazaki T
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+FAU - Yamamoto, Takatsugu
+AU  - Yamamoto T
+AD  - Department of Surgery Asakayama General Hospital Sakai Japan.
+FAU - Kubo, Shoji
+AU  - Kubo S
+AUID- ORCID: 0000-0002-4353-8033
+AD  - Department of Hepato-Biliary-Pancreatic Surgery Osaka City University Graduate 
+      School of Medicine Osaka Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20180622
+PL  - Japan
+TA  - Ann Gastroenterol Surg
+JT  - Annals of gastroenterological surgery
+JID - 101718062
+PMC - PMC6036378
+OTO - NOTNLM
+OT  - hepatocellular carcinoma
+OT  - interferon therapy
+OT  - obesity
+OT  - recurrence
+OT  - sustained virological response
+EDAT- 2018/07/14 06:00
+MHDA- 2018/07/14 06:01
+CRDT- 2018/07/14 06:00
+PHST- 2018/01/23 00:00 [received]
+PHST- 2018/05/22 00:00 [accepted]
+PHST- 2018/07/14 06:00 [entrez]
+PHST- 2018/07/14 06:00 [pubmed]
+PHST- 2018/07/14 06:01 [medline]
+AID - AGS312183 [pii]
+AID - 10.1002/ags3.12183 [doi]
+PST - epublish
+SO  - Ann Gastroenterol Surg. 2018 Jun 22;2(4):319-326. doi: 10.1002/ags3.12183. 
+      eCollection 2018 Jul.
+
+PMID- 12431469
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030114
+LR  - 20191106
+IS  - 0748-7983 (Print)
+IS  - 0748-7983 (Linking)
+VI  - 28
+IP  - 7
+DP  - 2002 Nov
+TI  - Indications and results of resection for hepatocellular carcinoma.
+PG  - 723-8
+AB  - AIM: In this retrospective series we evaluate our experience in surgical 
+      treatment of HCC and examine early and long-term results of 46 hepatic 
+      resections. METHODS: Eighty-eight patients with HCC have been observed at our 
+      Department. Fifty patients (57%) have been operated, but only 46 (92%) could be 
+      resected; 43 patients (93.5%) carried liver cirrhosis. We performed 28 
+      non-anatomical resections (60.8%) and 18 anatomical resections (39.2%). Tumour 
+      clearance at resection margin of at least 1cm was considered for a curative 
+      resections. RESULTS: Overall mortality and morbidity were 8.7 and 30.4% 
+      respectively. These rates significantly decreased in the last years: from 1995 to 
+      2000 no hospital mortality has been recorded. Hospital mortality among 
+      non-anatomical and anatomical resection subgroups was 3.5 and 16.6% respectively 
+      (P<0.02). After a median f.u. of 41 months, 19 patients (45.2%) had recurrences: 
+      it was intrahepatic in 16 (84.4%). We observed a 3-, 5- and 10-years actuarial 
+      survival rate 62, 51.1 and 22.5% respectively. Long term survival significantly 
+      differed between non-anatomical and anatomical resections, with 5-year and 
+      10-year values of 61.1 and 34.3% vs 37.7 and 18.8% respectively (P=0.0224). 
+      CONCLUSIONS: Early results after hepatic resection for HCC can be improved by 
+      using a limited surgical approach. Long-term results are still unsatisfactory, 
+      because of the high recurrence rate that is not influenced by different surgical 
+      approaches.
+FAU - Ziparo, V
+AU  - Ziparo V
+AD  - Department of Surgery 'Pietro Valdoni' University 'La Sapienza' Rome, Italy. 
+      vicenzo.ziparo@uniroma.it
+FAU - Balducci, G
+AU  - Balducci G
+FAU - Lucandri, G
+AU  - Lucandri G
+FAU - Mercantini, P
+AU  - Mercantini P
+FAU - Di Giacomo, G
+AU  - Di Giacomo G
+FAU - Fernandes, E
+AU  - Fernandes E
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of 
+      Surgical Oncology and the British Association of Surgical Oncology
+JID - 8504356
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/*surgery
+MH  - Child
+MH  - Female
+MH  - Hepatectomy/methods/*mortality
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Liver Neoplasms/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Survival Analysis
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2002/11/15 04:00
+MHDA- 2003/01/15 04:00
+CRDT- 2002/11/15 04:00
+PHST- 2002/11/15 04:00 [pubmed]
+PHST- 2003/01/15 04:00 [medline]
+PHST- 2002/11/15 04:00 [entrez]
+AID - S0748798302912990 [pii]
+AID - 10.1053/ejso.2002.1299 [doi]
+PST - ppublish
+SO  - Eur J Surg Oncol. 2002 Nov;28(7):723-8. doi: 10.1053/ejso.2002.1299.
+
+PMID- 26843059
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170207
+LR  - 20181113
+IS  - 2737-5935 (Electronic)
+IS  - 0037-5675 (Print)
+IS  - 0037-5675 (Linking)
+VI  - 57
+IP  - 4
+DP  - 2016 Apr
+TI  - Robotic hepatectomy: initial experience of a single institution in Singapore.
+PG  - 209-14
+LID - 10.11622/smedj.2016024 [doi]
+AB  - INTRODUCTION: In this study, we report our initial experience with robotic 
+      hepatectomy. METHODS: Consecutive patients who underwent robotic hepatectomy at 
+      Singapore General Hospital, Singapore, from February 2013 to February 2015 were 
+      enrolled in this study. The difficulty level of operations was graded using a 
+      novel scoring system for laparoscopic hepatectomies. RESULTS: During the two-year 
+      period, five consecutive robotic hepatectomies were performed (one left lateral 
+      sectionectomy, one non-anatomical segment II/III resection, one anatomical 
+      segment V resection with cholecystectomy, one extended right posterior 
+      sectionectomy and one non-anatomical segment V/VI resection). Two hepatectomies 
+      were performed for suspected hepatocellular carcinoma, two for solitary liver 
+      metastases and one for a large symptomatic haemangioma. The median age of the 
+      patients was 53 (range 38-66) years and the median tumour size was 2.5 (range 
+      2.1-7.3) cm. The median total operation time was 340 (range 155-825) minutes and 
+      the median volume of blood loss was 300 (range 50-1,200) mL. There were no open 
+      conversions and no mortalities or major morbidities (> Clavien-Dindo Grade II). 
+      The difficulty level of the operations was graded as low in one case (Score 2), 
+      intermediate in three cases (Score 5, 6 and 6) and high in one case (Score 10). 
+      There was one minor morbidity, where the patient experienced Grade A bile 
+      leakage, which resolved spontaneously. The median length of postoperative 
+      hospital stay was 5 (range 4-7) days. CONCLUSION: Our initial experience 
+      confirmed the feasibility and safety of robotic hepatectomy.
+CI  - Copyright © Singapore Medical Association.
+FAU - Kam, Juinn Huar
+AU  - Kam JH
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Goh, Brian Kp
+AU  - Goh BK
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+AD  - Duke-NUS Graduate Medical School, Singapore.
+FAU - Chan, Chung-Yip
+AU  - Chan CY
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Wong, Jen-San
+AU  - Wong JS
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Lee, Ser-Yee
+AU  - Lee SY
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Cheow, Peng-Chung
+AU  - Cheow PC
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Chung, Alexander Y F
+AU  - Chung AY
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+FAU - Ooi, London L P J
+AU  - Ooi LL
+AD  - Department of Hepatopancreatobiliary and Transplantation Surgery, Singapore 
+      General Hospital, Singapore.
+AD  - Duke-NUS Graduate Medical School, Singapore.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160204
+PL  - India
+TA  - Singapore Med J
+JT  - Singapore medical journal
+JID - 0404516
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/*surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hepatectomy/*methods
+MH  - Humans
+MH  - Laparoscopy/*methods
+MH  - Length of Stay
+MH  - Liver Neoplasms/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Operative Time
+MH  - Prospective Studies
+MH  - *Robotics
+MH  - Singapore
+PMC - PMC4853489
+OTO - NOTNLM
+OT  - laparoscopic hepatectomy
+OT  - laparoscopic liver resection
+OT  - minimally invasive hepatectomy
+OT  - robotic hepatectomy
+OT  - robotic liver resection
+EDAT- 2016/02/05 06:00
+MHDA- 2017/02/09 06:00
+CRDT- 2016/02/05 06:00
+PHST- 2016/02/05 06:00 [entrez]
+PHST- 2016/02/05 06:00 [pubmed]
+PHST- 2017/02/09 06:00 [medline]
+AID - j57/4/209 [pii]
+AID - SMJ-57-209 [pii]
+AID - 10.11622/smedj.2016024 [doi]
+PST - ppublish
+SO  - Singapore Med J. 2016 Apr;57(4):209-14. doi: 10.11622/smedj.2016024. Epub 2016 
+      Feb 4.
+
+PMID- 18333081
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20100617
+LR  - 20211020
+IS  - 1365-182X (Print)
+IS  - 1477-2574 (Electronic)
+IS  - 1365-182X (Linking)
+VI  - 6
+IP  - 4
+DP  - 2004
+TI  - Laparoscopic liver resections for hepatocellular carcinoma (HCC) in cirrhotic 
+      patients.
+PG  - 236-46
+LID - 10.1080/13651820410023941 [doi]
+AB  - BACKGROUND: The laparoscopic approach for liver resections is still limited and 
+      controversial. Nevertheless the advantages connected with a mini-invasive 
+      approach are significant, especially in cirrhotic patients. In recent years the 
+      progress of laparoscopic procedures and the development of new and dedicated 
+      technologies have made endoscopic hepatic surgery feasible and safe. The aim of 
+      this study was to report the results of our experience in laparoscopic liver 
+      surgery for hepatocellular carcinoma (HCC) in cirrhotic patients. METHODS: From 
+      2000 to 2003, 16 patients (10 male, 6 female; age 48-69 years; mean age 60.1 
+      years) with HCC and associated severe but well compensated liver cirrhosis 
+      underwent laparoscopic hepatic resections at our department. Mean tumour size was 
+      2.9 cm (range 1-3.9). Seven of these lesions were in the left liver and nine in 
+      the right lobe. Laparoscopy was performed under CO(2) pneumoperitoneum. The liver 
+      was always examined using laparoscopic ultrasound (US) to confirm the extension 
+      of the lesions and their relationships to the vasculature. The Pringle manoeuvre 
+      was not used. The transection of liver parenchyma was obtained by the use of a 
+      harmonic scalpel. The specimens were placed in a plastic bag and removed without 
+      contact to the abdominal wall. RESULTS: There was one conversion to laparotomy 
+      for inadequate exposure. In the remaining 15 patients we performed 13 
+      non-anatomical resections, I segmentectomy and I anatomical left lobectomy. The 
+      mean operative time was 152 min (range 80-180). Mean blood loss was 280 ml and 
+      none of the patients required blood transfusions. In two patients the resection 
+      margin was <1 cm but the capsule was not infiltrated at histology. One patient 
+      died on the third postoperative day from a severe respiratory distress syndrome. 
+      Major morbidities occurred in two patients who developed moderate postoperative 
+      ascites, which resolved successfully with conservative treatment. The mean 
+      postoperative hospital stay was 8.8 days. Mean follow-up time has been 18 months, 
+      and to date no recurrences at the site of resection or port-site metastases have 
+      been observed. DISCUSSION: Limited laparoscopic liver resections in cirrhotic 
+      patients are technically feasible with a low complication rate when careful 
+      selection criteria are followed (hepatic involvement limited and located in the 
+      left or anterior right segments, tumour size smaller than 5 cm, Child-Pugh class 
+      A). This approach could be considered the best option for the treatment of small 
+      esophitic or subcapsular HCC on well compensated cirrhosis and a useful option 
+      when it is necessary to perform a left lateral anatomical resection or 
+      non-anatomical resection in well selected patients. In fact the mini-invasive 
+      approach can minimise the postoperative morbidity rate, which is still too high 
+      in this group of patients. It must be performed in highly specialised units by 
+      surgeons assisted by all requested technologies and with extensive experience in 
+      hepatobiliary and advanced laparoscopic surgery.
+FAU - Belli, Giulio
+AU  - Belli G
+AD  - Department of General and Hepato-Pancreato-Biliary Surgery, S.M. Loreto Nuovo 
+      Hospital, Naples, Italy. chirurgia.loretonuovo@tin.it
+FAU - Fantini, Corrado
+AU  - Fantini C
+FAU - D'Agostino, Alberto
+AU  - D'Agostino A
+FAU - Belli, Andrea
+AU  - Belli A
+FAU - Russolillo, Nadia
+AU  - Russolillo N
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - HPB (Oxford)
+JT  - HPB : the official journal of the International Hepato Pancreato Biliary 
+      Association
+JID - 100900921
+PMC - PMC2020680
+EDAT- 2008/03/12 09:00
+MHDA- 2008/03/12 09:01
+CRDT- 2008/03/12 09:00
+PHST- 2008/03/12 09:00 [pubmed]
+PHST- 2008/03/12 09:01 [medline]
+PHST- 2008/03/12 09:00 [entrez]
+AID - S1365-182X(15)30827-3 [pii]
+AID - 06-236 [pii]
+AID - 10.1080/13651820410023941 [doi]
+PST - ppublish
+SO  - HPB (Oxford). 2004;6(4):236-46. doi: 10.1080/13651820410023941.
+
+PMID- 23435144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130618
+LR  - 20130225
+IS  - 0172-6390 (Print)
+IS  - 0172-6390 (Linking)
+VI  - 59
+IP  - 119
+DP  - 2012 Oct
+TI  - Preoperative transarterial chemoembolization for hepatocellular carcinoma.
+PG  - 2295-9
+LID - 10.5754/hge10730 [doi]
+AB  - BACKGROUND/AIMS: The effects of transarterial chemoembolization (TACE) prior to 
+      hepatectomy for patients with hepatocellular carcinoma (HCC) are controversial. 
+      METHODOLOGY: Clinicopathological profiles and prognosis were compared between 
+      patients who underwent hepatic resection following preoperative TACE (Group A, 69 
+      patients) or only resection (Group B, 158 patients). Univariate and multivariate 
+      analyses were used to evaluate whether TACE influenced patient prognosis. 
+      RESULTS: Profiles of Group A were comparable with those of Group B except for 
+      younger age, higher frequency of major hepatectomy, higher incidence of positive 
+      surgical margin, vascular invasion and poorly differentiated HCC. Overall 
+      survival was significantly worse in Group A than in Group B (5-year survival 
+      rate; 29% vs. 69%; p<0.001). A subset of patients in Group A with complete tumor 
+      necrosis by TACE showed comparable survival with Group B. Multivariate analysis 
+      revealed that preoperative TACE (hazard ratio (HR)=4.3; 95% confidential interval 
+      (CI), 2.8-6.6), non-anatomic resection (HR=1.6; 95% CI, 1.1-2.4), blood loss >1L 
+      (HR=1.8; 95% CI=1.1-2.8) and vascular invasion (HR=2.3; 95% CI=1.4-3.6) were 
+      independent predictors of poor survival. Preoperative TACE was also an 
+      independent predictor of extrahepatic metastases (odds ratio, 2.8; 95% 
+      CI=1.1-7.1). CONCLUSIONS: Preoperative TACE should not be routinely applied for 
+      HCC.
+FAU - Kishi, Yoji
+AU  - Kishi Y
+AD  - Department of Gastroenterological Surgery, Cancer Institute Hospital, Japanese 
+      Foundation for Cancer Research, Tokyo, Japan.
+FAU - Saiura, Akio
+AU  - Saiura A
+FAU - Yamamoto, Junji
+AU  - Yamamoto J
+FAU - Koga, Rintaro
+AU  - Koga R
+FAU - Seki, Makoto
+AU  - Seki M
+FAU - Morimura, Ryo
+AU  - Morimura R
+FAU - Yoshioka, Ryuji
+AU  - Yoshioka R
+FAU - Kokudo, Norihiro
+AU  - Kokudo N
+FAU - Yamaguchi, Toshiharu
+AU  - Yamaguchi T
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - Greece
+TA  - Hepatogastroenterology
+JT  - Hepato-gastroenterology
+JID - 8007849
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/*drug therapy/mortality/secondary/*surgery
+MH  - *Chemoembolization, Therapeutic/adverse effects/mortality
+MH  - Chemotherapy, Adjuvant
+MH  - Chi-Square Distribution
+MH  - Disease-Free Survival
+MH  - Female
+MH  - *Hepatectomy/adverse effects/mortality
+MH  - Humans
+MH  - Liver Neoplasms/*drug therapy/mortality/pathology/*surgery
+MH  - Logistic Models
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - *Neoadjuvant Therapy/adverse effects/mortality
+MH  - Neoplasm Recurrence, Local
+MH  - Odds Ratio
+MH  - Proportional Hazards Models
+MH  - Risk Factors
+MH  - Time Factors
+MH  - Treatment Outcome
+EDAT- 2013/02/26 06:00
+MHDA- 2013/06/19 06:00
+CRDT- 2013/02/26 06:00
+PHST- 2013/02/26 06:00 [entrez]
+PHST- 2013/02/26 06:00 [pubmed]
+PHST- 2013/06/19 06:00 [medline]
+AID - 10.5754/hge10730 [doi]
+PST - ppublish
+SO  - Hepatogastroenterology. 2012 Oct;59(119):2295-9. doi: 10.5754/hge10730.
+
+PMID- 28002324
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170217
+LR  - 20210109
+IS  - 1536-5964 (Electronic)
+IS  - 0025-7974 (Print)
+IS  - 0025-7974 (Linking)
+VI  - 95
+IP  - 51
+DP  - 2016 Dec
+TI  - Nonanatomical resection is comparable with anatomical resection in solitary 
+      hepatocellular carcinoma <5 cm in the right posterior section.
+PG  - e5382
+LID - 10.1097/MD.0000000000005382 [doi]
+LID - e5382
+AB  - Anatomical resection (AR) is superior to nonanatomical resection (NAR) in theory, 
+      but the actual clinical benefit of AR for hepatocellular carcinoma (HCC) is 
+      controversial due to the substantial heterogeneity of HCC. Here, we 
+      retrospectively compared AR and NAR outcomes for solitary hepatocellular 
+      carcinoma (HCC) <5 cm in the right posterior section (RPS) and investigated the 
+      risk factors for HCC recurrence and liver-related mortality.The study included 99 
+      consecutive patients who underwent curative surgical resection of an HCC in the 
+      RPS (S6 and S7) between January 2003 and December 2009. Each patient had a 
+      solitary HCC <5 cm and a noncirrhotic liver.The median estimated blood loss 
+      during operation and median operative time were significantly worse in the AR 
+      group. In addition, the median tumor size and incidence of microvascular invasion 
+      were significantly worse in the AR group. The 1-, 3-, and 5-year disease-free 
+      survival rates were 74.1%, 66.3%, and 58.2% in the AR group and 84.7%, 64.4%, and 
+      48.2% in the NAR group, respectively (P = 0.172). The corresponding liver-related 
+      overall survival rates were 96.3%, 84.7%, and 77.0% in the AR group and 97.2%, 
+      90.1%, and 88.7% in the NAR group, respectively (P = 0.335). NAR was not 
+      associated with HCC recurrence or liver-related mortality in multivariate 
+      analysis.The outcomes of NAR for a solitary HCC <5 cm in the RPS are comparable 
+      to those achieved with AR with respect to long-term liver-related overall 
+      survival and disease-free survival.
+FAU - Kim, Jong Man
+AU  - Kim JM
+AD  - Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of 
+      Medicine Division of Gastroenterology, Department of Medicine, Samsung Medical 
+      Center, Sungkyunkwan University School of Medicine, Seoul, Korea.
+FAU - Kwon, Choon Hyuck David
+AU  - Kwon CHD
+FAU - Joh, Jae-Won
+AU  - Joh JW
+FAU - Na, Byung-Gon
+AU  - Na BG
+FAU - Lee, Kyo-Won
+AU  - Lee KW
+FAU - Choi, Gyu-Seong
+AU  - Choi GS
+FAU - Lee, Joon Hyeok
+AU  - Lee JH
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Medicine (Baltimore)
+JT  - Medicine
+JID - 2985248R
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/mortality/pathology/*surgery
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Humans
+MH  - Liver/pathology/surgery
+MH  - Liver Neoplasms/mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/etiology
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Treatment Outcome
+PMC - PMC5181808
+COIS- The authors have no funding and conflicts of interest to disclose.
+EDAT- 2016/12/22 06:00
+MHDA- 2017/02/18 06:00
+CRDT- 2016/12/22 06:00
+PHST- 2016/12/22 06:00 [entrez]
+PHST- 2016/12/22 06:00 [pubmed]
+PHST- 2017/02/18 06:00 [medline]
+AID - 00005792-201612230-00012 [pii]
+AID - MD-D-15-04108 [pii]
+AID - 10.1097/MD.0000000000005382 [doi]
+PST - ppublish
+SO  - Medicine (Baltimore). 2016 Dec;95(51):e5382. doi: 10.1097/MD.0000000000005382.
+
+PMID- 29996286
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181030
+LR  - 20181030
+IS  - 0376-2491 (Print)
+IS  - 0376-2491 (Linking)
+VI  - 98
+IP  - 24
+DP  - 2018 Jun 26
+TI  - [Comparative analysis of anatomic and non-anatomic hepatectomy for single small 
+      hepatocellular carcinoma with microvascular invasion].
+PG  - 1937-1940
+LID - 10.3760/cma.j.issn.0376-2491.2018.24.009 [doi]
+AB  - Objective: To compare the efficacy and safety of anatomic hepatectomy and 
+      non-anatomic hepatectomy in the treatment of single small Hepatocellular 
+      carcinoma with MVI. Methods: The clinical data of 84 patients with single small 
+      Hepatocellular carcinoma with MVI in Beijing Chaoyang Hospital between January 
+      2008 and December 2013 were retrospectively analyzed. Patients undergoing 
+      anatomical hepatectomy were enrolled in the AR group, and the patients undergoing 
+      non-anatomic hepatectomy were enrolled in the NR group. The efficacy and survival 
+      rate of the two groups were compared. Results: (1) Operation time, numbers of 
+      patients with volume of intraoperative blood loss ≥300 ml and number of patients 
+      with blood transfusion were (170±41)minutes, 8, 7 in the AR group and 
+      (148±35)minutes, 19, 18 in the NR group, respectively, with statistically 
+      significant differences between the 2 groups (P<0.05). (2) The 1-year, 2-year and 
+      3-year overall survival rate were 85.7%, 68.6%, 57.1% in the AR group and 79.6%, 
+      53.1%, 42.9% in the NR group, respectively. The 1-year, 2-year and 3-year 
+      progression-free survival rate were 80.0%, 62.9%, 51.4% in the AR group and 
+      71.4%, 49.0%, 38.8%, in the NR group, respectively. There were statistically 
+      significant differences between the 2 groups both in the overall survival rate 
+      and the progression-free survival rate (P<0.05). (3) Prognostic factors analysis 
+      of HCC patients with MVI: result of univariate analysis showed that maximum 
+      diameter of tumor and surgical procedures were relative factors affecting overall 
+      survival and progression-free survival of HCC patients with MVI, AFP level was 
+      relative factors affecting progression-free survival of HCC patients with MVI, 
+      with statistically significant differences (P<0.05). Result of multivariate 
+      analysis showed that maximum diameter of tumor between 3.0 and 5.0 cm and 
+      non-anatomic liver resection were independent factors affecting poor overall 
+      survival and progression-free survival of HCC patients with MVI, and AFP≥20 μg/L 
+      and total bilirubin ≥20 μmol/L were independent factors affecting poor 
+      progression-free survival of HCC patients with MVI, with a statistically 
+      significant differences (P< 0.05). Conclusion: Anatomic hepatectomy for patients 
+      with single small hepatocellular carcinoma with microvascular invasion has better 
+      clinical efficacy and safety.
+FAU - Liu, Y
+AU  - Liu Y
+AD  - Department of Hepatobiliary Surgery, Beijing Chaoyang Hospital, Capital Medical 
+      University, Beijing 100020, China.
+FAU - Dai, Y
+AU  - Dai Y
+FAU - Zhang, X X
+AU  - Zhang XX
+FAU - Li, S M
+AU  - Li SM
+FAU - Liu, R J
+AU  - Liu RJ
+FAU - Fan, H
+AU  - Fan H
+LA  - chi
+PT  - Comparative Study
+PT  - Journal Article
+PL  - China
+TA  - Zhonghua Yi Xue Za Zhi
+JT  - Zhonghua yi xue za zhi
+JID - 7511141
+RN  - RFM9X3LJ49 (Bilirubin)
+SB  - IM
+MH  - Bilirubin
+MH  - Blood Loss, Surgical
+MH  - *Carcinoma, Hepatocellular
+MH  - Disease-Free Survival
+MH  - *Hepatectomy
+MH  - Humans
+MH  - *Liver Neoplasms
+MH  - Multivariate Analysis
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Recurrence, Local
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Survival Rate
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - Anatomical hepatectomy
+OT  - Curative effect
+OT  - Microvascular invasion
+OT  - Small hepatocellular carcinoma
+EDAT- 2018/07/13 06:00
+MHDA- 2018/10/31 06:00
+CRDT- 2018/07/12 06:00
+PHST- 2018/07/12 06:00 [entrez]
+PHST- 2018/07/13 06:00 [pubmed]
+PHST- 2018/10/31 06:00 [medline]
+AID - 10.3760/cma.j.issn.0376-2491.2018.24.009 [doi]
+PST - ppublish
+SO  - Zhonghua Yi Xue Za Zhi. 2018 Jun 26;98(24):1937-1940. doi: 
+      10.3760/cma.j.issn.0376-2491.2018.24.009.
+
+PMID- 26622111
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20151201
+LR  - 20200929
+IS  - 0972-9941 (Print)
+IS  - 1998-3921 (Electronic)
+IS  - 1998-3921 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2015 Oct-Dec
+TI  - The procedure outcome of laparoscopic resection for 'small' hepatocellular 
+      carcinoma is comparable to vlaparoscopic radiofrequency ablation.
+PG  - 231-5
+LID - 10.4103/0972-9941.144093 [doi]
+AB  - BACKGROUND: The aim of this study was to compare the effectiveness of 
+      laparoscopic liver resection (LLR) and laparoscopic radiofrequency ablation 
+      (LRFA) in the treatment of small nodular hepatocellular carcinoma (HCC). PATIENTS 
+      AND METHODS: We enrolled 50 cirrhotic patients with similar baseline 
+      characteristics that underwent LLR (n = 26) or LRFA (n = 24), in both cases with 
+      intraoperative ultrasonography. Operative and peri-operative data were 
+      retrospectively evaluated. RESULTS: LLR included anatomic resection in eight 
+      cases and non-anatomic resection in 18. In LRFA patients, a thermoablation of 62 
+      nodules was achieved. Between LLR and LRFA groups, a significant difference was 
+      found both for median diameters of treated HCC nodules (30 vs. 17.1 mm; P < 
+      0.001) and the number of treated nodules/patient (1.29 ± 0.62 vs. 2.65 ± 1.55; P 
+      < 0.001). A conversion to laparotomy occurred in two LLR patient (7.7%) for 
+      bleeding. No deaths occurred in both groups. Morbidity rates were 26.9% in the 
+      LLR group versus 16.6% in the LRFA group (P = 0.501). Hospital stay in the LLR 
+      and LRFA group was 8.30 ± 6.52 and 6.52 ± 2.69 days, respectively (P = 0.022). 
+      The surgical margin was free of tumour cells in all LLR patients, with a margin 
+      <5 mm in only one case. In the LRFA group, a complete response was achieved in 
+      90.3% of thermoablated HCC nodules at the 1-month post-treatment computed 
+      tomography evaluation. CONCLUSIONS: LLR for small peripheral HCC in patients with 
+      chronic liver disease represents a valid alternative to LRFA in terms of patient 
+      toleration, surgical outcome of the procedure, and short-term morbidity.
+FAU - Casaccia, Marco
+AU  - Casaccia M
+AD  - Surgical Clinic Unit 2, St. Martino Hospital, University of Genoa, Genoa, Italy ; 
+      Department of Surgical Sciences and Integrated Diagnostics, University of Genoa, 
+      Genoa, Italy.
+FAU - Santori, Gregorio
+AU  - Santori G
+AD  - Department of Surgical Sciences and Integrated Diagnostics, University of Genoa, 
+      Genoa, Italy.
+FAU - Bottino, Giuliano
+AU  - Bottino G
+AD  - Hepato-bilio-pancreatic and Liver Transplant Unit, St. Martino Hospital, Genoa, 
+      Italy.
+FAU - Diviacco, Pietro
+AU  - Diviacco P
+AD  - Hepato-bilio-pancreatic and Liver Transplant Unit, St. Martino Hospital, Genoa, 
+      Italy.
+FAU - Negri, Antonella De
+AU  - Negri AD
+AD  - Hepato-bilio-pancreatic and Liver Transplant Unit, St. Martino Hospital, Genoa, 
+      Italy.
+FAU - Moraglia, Eva
+AU  - Moraglia E
+AD  - Hepato-bilio-pancreatic and Liver Transplant Unit, St. Martino Hospital, Genoa, 
+      Italy.
+FAU - Adorno, Enzo
+AU  - Adorno E
+AD  - Hepato-bilio-pancreatic and Liver Transplant Unit, St. Martino Hospital, Genoa, 
+      Italy.
+LA  - eng
+PT  - Journal Article
+PL  - India
+TA  - J Minim Access Surg
+JT  - Journal of minimal access surgery
+JID - 101228183
+PMC - PMC4640020
+OTO - NOTNLM
+OT  - Hepatocellular carcinoma
+OT  - laparoscopy
+OT  - liver cirrhosis
+OT  - liver resection
+OT  - radiofrequency ablation
+COIS- Conflict of Interest: None declared.
+EDAT- 2015/12/02 06:00
+MHDA- 2015/12/02 06:01
+CRDT- 2015/12/02 06:00
+PHST- 2015/12/02 06:00 [entrez]
+PHST- 2015/12/02 06:00 [pubmed]
+PHST- 2015/12/02 06:01 [medline]
+AID - JMAS-11-231 [pii]
+AID - 10.4103/0972-9941.144093 [doi]
+PST - ppublish
+SO  - J Minim Access Surg. 2015 Oct-Dec;11(4):231-5. doi: 10.4103/0972-9941.144093.
+
+PMID- 16552201
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060525
+LR  - 20220321
+IS  - 0003-4932 (Print)
+IS  - 1528-1140 (Electronic)
+IS  - 0003-4932 (Linking)
+VI  - 243
+IP  - 4
+DP  - 2006 Apr
+TI  - Laparoscopic liver resection for peripheral hepatocellular carcinoma in patients 
+      with chronic liver disease: midterm results and perspectives.
+PG  - 499-506
+AB  - OBJECTIVE: Report the midterm results of laparoscopic resection for 
+      hepatocellular in chronic liver disease (CLD). SUMMARY BACKGROUND DATA: Surgical 
+      resection for hepatocellular carcinoma (HCC) in chronic liver disease (CLD) 
+      remains controversial because of high morbidity and recurrence rates. 
+      Laparoscopic resection of liver tumors has recently been developed and could 
+      reduce morbidity. METHODS: From 1998 to 2003, patients with HCC and CLD were 
+      considered for laparoscopic liver resection. Inclusion criteria were chronic 
+      hepatitis or Child's A cirrhosis, solitary tumor < or =5 cm in size, and location 
+      in peripheral segments of the liver. Mortality, morbidity, recurrence rates, and 
+      survival were analyzed. RESULTS: A total of 27 patients were included. Liver 
+      resections included anatomic resection in 17 cases and non anatomic resection in 
+      10. Seven conversions to laparotomy (26%) occurred for moderate hemorrhage in 5 
+      cases and technical difficulties in 2 cases. Mortality and morbidity rates were 
+      0% and 33%, respectively. Postoperative ascites and encephalopathy occurred in 2 
+      patients (7%) who both had undergone conversion to laparotomy. Mean surgical 
+      margin was 11 mm (range, 1-47 mm). After a mean follow-up of 2 years (range, 
+      1.1-4.7), 8 patients (30%) developed intrahepatic tumor recurrence of which one 
+      died. Treatment of recurrence was possible in 4 patients (50%), including 
+      orthotopic liver transplantation, right hepatectomy, radiofrequency ablation, and 
+      chemoembolization in 1 case each. There were no adhesions in the 2 reoperated 
+      patients. Overall and disease-free 3-year survival rates were 93% and 64%, 
+      respectively. CONCLUSION: Our study shows that laparoscopic liver resection for 
+      HCC in selected patients is a safe procedure with very good midterm results. This 
+      approach could have an impact on the therapeutic strategy of HCC complicating CLD 
+      as a treatment with curative intent or as a bridge to liver transplantation.
+FAU - Cherqui, Daniel
+AU  - Cherqui D
+AD  - Department of Digestive Surgery, Liver Transplantation and Hepatobiliary Unit, 
+      APHP, Hôpital Henri Mondor-Université Paris 12, Créteil, France. 
+      daniel.cherqui@hmn.ap-hop-paris.fr
+FAU - Laurent, Alexis
+AU  - Laurent A
+FAU - Tayar, Claude
+AU  - Tayar C
+FAU - Chang, Stephen
+AU  - Chang S
+FAU - Van Nhieu, Jeanne Tran
+AU  - Van Nhieu JT
+FAU - Loriau, Jérôme
+AU  - Loriau J
+FAU - Karoui, Mehdi
+AU  - Karoui M
+FAU - Duvoux, Christophe
+AU  - Duvoux C
+FAU - Dhumeaux, Daniel
+AU  - Dhumeaux D
+FAU - Fagniez, Pierre-Louis
+AU  - Fagniez PL
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Ann Surg
+JT  - Annals of surgery
+JID - 0372354
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/*surgery
+MH  - Disease-Free Survival
+MH  - Feasibility Studies
+MH  - Female
+MH  - Hepatectomy/*methods
+MH  - Hepatitis, Chronic/epidemiology
+MH  - Humans
+MH  - Laparoscopy
+MH  - Liver Cirrhosis/epidemiology
+MH  - Liver Neoplasms/*surgery
+MH  - Liver Transplantation
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/epidemiology
+MH  - Treatment Outcome
+PMC - PMC1448957
+EDAT- 2006/03/23 09:00
+MHDA- 2006/05/26 09:00
+CRDT- 2006/03/23 09:00
+PHST- 2006/03/23 09:00 [pubmed]
+PHST- 2006/05/26 09:00 [medline]
+PHST- 2006/03/23 09:00 [entrez]
+AID - 00000658-200604000-00011 [pii]
+AID - 0000658-200604000-00011 [pii]
+AID - 10.1097/01.sla.0000206017.29651.99 [doi]
+PST - ppublish
+SO  - Ann Surg. 2006 Apr;243(4):499-506. doi: 10.1097/01.sla.0000206017.29651.99.
+
+PMID- 15936169
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060119
+LR  - 20220408
+IS  - 0748-7983 (Print)
+IS  - 0748-7983 (Linking)
+VI  - 31
+IP  - 9
+DP  - 2005 Nov
+TI  - Liver resection for hepatocellular carcinoma on cirrhosis: analysis of mortality, 
+      morbidity and survival--a European single center experience.
+PG  - 986-93
+AB  - AIMS: To evaluate short- and long-term results of liver resections and prognostic 
+      factors in cirrhotic patients with hepatocellular carcinoma. STUDY DESIGN: A 
+      single-unit, retrospective study analyzing 216 patients with histologically 
+      confirmed cirrhosis who underwent hepatic resection for hepatocellular carcinoma. 
+      All clinico-pathologic and follow-up data were collected prospectively. RESULTS: 
+      Child A patients had a significantly lower in-hospital mortality rate compared to 
+      Child B-C: 4.7 vs 21.3% (p=0.0003). Overall morbidity rate was 38.4%; multiple 
+      logistic regression analysis identified liver function, hepatic pedicle clamping 
+      time, number of nodes and transfusion rate as independent predictors for 
+      post-operative complications. Overall and disease-free 5-year survival rates were 
+      34.1 and 25.2%. Multivariate analysis showed that Child A, radical resection, 
+      tumour size < or =5 cm and, absence of vascular invasion were independent 
+      prognostic factors for long-term survival. No significant differences in overall 
+      and disease-free survival were found according to the type of resection (anatomic 
+      vs non-anatomic). CONCLUSIONS: Patients with preserved liver function and 
+      small-size, single-node hepatocellular carcinomas are the best candidates for 
+      hepatic resection.
+FAU - Capussotti, L
+AU  - Capussotti L
+AD  - Department of Surgical Oncology, Istituto per la Ricerca e la Cura del Cancro, 
+      Turin, Italy.
+FAU - Muratore, A
+AU  - Muratore A
+FAU - Amisano, M
+AU  - Amisano M
+FAU - Polastri, R
+AU  - Polastri R
+FAU - Bouzari, H
+AU  - Bouzari H
+FAU - Massucco, P
+AU  - Massucco P
+LA  - eng
+PT  - Journal Article
+DEP - 20050603
+PL  - England
+TA  - Eur J Surg Oncol
+JT  - European journal of surgical oncology : the journal of the European Society of 
+      Surgical Oncology and the British Association of Surgical Oncology
+JID - 8504356
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/complications/mortality/*surgery
+MH  - Disease-Free Survival
+MH  - Female
+MH  - *Hepatectomy
+MH  - Humans
+MH  - Liver Cirrhosis/*complications
+MH  - Liver Cirrhosis, Alcoholic/complications
+MH  - Liver Neoplasms/complications/mortality/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Postoperative Complications
+MH  - Prognosis
+MH  - Survival Rate
+EDAT- 2005/06/07 09:00
+MHDA- 2006/01/20 09:00
+CRDT- 2005/06/07 09:00
+PHST- 2005/02/14 00:00 [received]
+PHST- 2005/03/29 00:00 [revised]
+PHST- 2005/04/06 00:00 [accepted]
+PHST- 2005/06/07 09:00 [pubmed]
+PHST- 2006/01/20 09:00 [medline]
+PHST- 2005/06/07 09:00 [entrez]
+AID - S0748-7983(05)00103-4 [pii]
+AID - 10.1016/j.ejso.2005.04.002 [doi]
+PST - ppublish
+SO  - Eur J Surg Oncol. 2005 Nov;31(9):986-93. doi: 10.1016/j.ejso.2005.04.002. Epub 
+      2005 Jun 3.
+
+PMID- 24305927
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20141204
+LR  - 20220410
+IS  - 1432-2323 (Electronic)
+IS  - 0364-2313 (Linking)
+VI  - 38
+IP  - 5
+DP  - 2014 May
+TI  - Clinical analysis of anatomical resection for the treatment of hepatocellular 
+      carcinoma based on the stratification of liver function.
+PG  - 1154-63
+LID - 10.1007/s00268-013-2369-y [doi]
+AB  - BACKGROUND: This study aimed to clarify the efficacy of anatomical resection (AR) 
+      for the treatment of hepatocellular carcinoma (HCC) compared with that of 
+      nonanatomical resection (NAR) based on the stratification of liver function (LF). 
+      METHODS: The clinical records of 174 patients with a single HCC, 2-5 cm in 
+      diameter and without macroscopic vascular invasion, were analyzed. AR was 
+      performed in 132 patients and NAR was performed in 42 patients. The indocyanine 
+      green retention rate at 15 min (ICGR15) of the 78 patients classified as the 
+      good-LF group was 10-20 % and the ICGR15 of the 54 patients classified as the 
+      poor-LF group was 20-40 %. RESULTS: The 5-year overall survival (OS) and 
+      disease-free survival rates of the 174 patients were 67.6 and 33.4 %, 
+      respectively. Cox proportional hazard analysis identified ICGR15 ≥ 20 %, liver 
+      cirrhosis, α-fetoprotein ≥ 100 mg/dL, and infiltrating growth as independent 
+      prognostic factors. Liver cirrhosis was significantly less frequent in patients 
+      who underwent AR than in patients who underwent NAR (52 vs. 79 %, p = 0.002). In 
+      the subgroup analysis of the good-LF group, there were no significant differences 
+      in 5-year OS after AR and NAR (73.3 vs. 65.2 %, p = 0.857). By contrast, in the 
+      subgroup analysis of the poor-LF group, the 5-year OS after AR was significantly 
+      worse than after NAR (45.3 vs. 77.4 %, p = 0.044). CONCLUSION: In patients with 
+      an ICGR15 ≥ 20 %, we recommend NAR rather than AR for the treatment of a solitary 
+      2-5-cm-diameter HCC and without macroscopic vascular invasion.
+FAU - Yamamoto, Yusuke
+AU  - Yamamoto Y
+AD  - Division of Digestive Surgery, Department of Surgery, Kyoto Prefectural 
+      University of Medicine, 465 Kajii-cho, Kamigyo-ku, Kyoto, 6028566, Japan, 
+      yamayu-1@koto.kpu-m.ac.jp.
+FAU - Ikoma, Hisashi
+AU  - Ikoma H
+FAU - Morimura, Ryo
+AU  - Morimura R
+FAU - Konishi, Hirotaka
+AU  - Konishi H
+FAU - Murayama, Yasutoshi
+AU  - Murayama Y
+FAU - Komatsu, Shuhei
+AU  - Komatsu S
+FAU - Shiozaki, Atsushi
+AU  - Shiozaki A
+FAU - Kuriu, Yoshiaki
+AU  - Kuriu Y
+FAU - Kubota, Takeshi
+AU  - Kubota T
+FAU - Nakanishi, Masayoshi
+AU  - Nakanishi M
+FAU - Ichikawa, Daisuke
+AU  - Ichikawa D
+FAU - Fujiwara, Hitoshi
+AU  - Fujiwara H
+FAU - Okamoto, Kazuma
+AU  - Okamoto K
+FAU - Sakakura, Chouhei
+AU  - Sakakura C
+FAU - Ochiai, Toshiya
+AU  - Ochiai T
+FAU - Otsuji, Eigo
+AU  - Otsuji E
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - World J Surg
+JT  - World journal of surgery
+JID - 7704052
+SB  - IM
+MH  - Carcinoma, Hepatocellular/*pathology/physiopathology/*surgery
+MH  - Female
+MH  - *Hepatectomy
+MH  - Humans
+MH  - Liver Function Tests
+MH  - Liver Neoplasms/*pathology/physiopathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+EDAT- 2013/12/07 06:00
+MHDA- 2014/12/15 06:00
+CRDT- 2013/12/06 06:00
+PHST- 2013/12/06 06:00 [entrez]
+PHST- 2013/12/07 06:00 [pubmed]
+PHST- 2014/12/15 06:00 [medline]
+AID - 10.1007/s00268-013-2369-y [doi]
+PST - ppublish
+SO  - World J Surg. 2014 May;38(5):1154-63. doi: 10.1007/s00268-013-2369-y.
+
+PMID- 18362622
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080508
+LR  - 20161124
+IS  - 0003-4932 (Print)
+IS  - 0003-4932 (Linking)
+VI  - 247
+IP  - 4
+DP  - 2008 Apr
+TI  - Systematic extended right posterior sectionectomy: a safe and effective 
+      alternative to right hepatectomy.
+PG  - 603-11
+LID - 10.1097/SLA.0b013e31816387d7 [doi]
+AB  - BACKGROUND: A surgical approach based on ultrasound-guided hepatectomy might 
+      minimize the need for major resection, whose rates of morbidity and mortality are 
+      not negligible. Right hepatectomy (RH) is traditionally performed in cases of 
+      vascular invasion of the right hepatic vein with multiple tumors in the right 
+      posterior section, and/or of the right posterior portal branch (P6-7) with tumor 
+      in contact with right anterior portal branch (P5-8). We herein describe an 
+      alternative approach to RH consisting in ultrasound-guided systematic extended 
+      right posterior hepatic sectionectomy (SERPS). METHODS: Among 207 consecutive 
+      patients who underwent hepatectomies, 21 (10%) underwent SERPS. Median age was 67 
+      years (range, 48-79). There were 13 men and 8 women. Ten (48%) patients had 
+      hepatocellular carcinoma; 11 (52%) had colorectal liver metastases. Median tumor 
+      number was 2 (range, 1-15); median tumor size was 4.5 cm (range, 2.5-20). Ten 
+      (48%) patients had cirrhosis, 8 (38%) had steatosis, and 3 (16%) had normal 
+      liver. Surgical strategy was based on tumor-vessels relationship at 
+      intraoperative ultrasonography (IOUS) and on findings at color-Doppler IOUS. 
+      RESULTS: In-hospital and 90-days mortality were nil. Major and minor morbidity 
+      occurred in 3 (14%) and 2 (9.5%) patients, respectively. No patients were 
+      reoperated because of complications. Blood transfusions were given to 2 (9.5%) 
+      patients. After a median follow-up of 21 months, no local recurrence was 
+      observed. CONCLUSIONS: IOUS-guided SERPS is feasible, safe, and effective. It 
+      should be applied whenever possible as alternative resection to RH to maximize 
+      liver parenchymal sparing.
+FAU - Torzilli, Guido
+AU  - Torzilli G
+AD  - Third Department of General Surgery, University of Milan, IRCCS Istituto Clinico 
+      Humanitas, Rozzano, Milan, Italy. guido.torzilli@unimi.it
+FAU - Donadon, Matteo
+AU  - Donadon M
+FAU - Marconi, Matteo
+AU  - Marconi M
+FAU - Botea, Florin
+AU  - Botea F
+FAU - Palmisano, Angela
+AU  - Palmisano A
+FAU - Del Fabbro, Daniele
+AU  - Del Fabbro D
+FAU - Procopio, Fabio
+AU  - Procopio F
+FAU - Montorsi, Marco
+AU  - Montorsi M
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Ann Surg
+JT  - Annals of surgery
+JID - 0372354
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/diagnostic imaging/pathology/*surgery
+MH  - Colorectal Neoplasms/diagnostic imaging/secondary/*surgery
+MH  - Female
+MH  - Hepatectomy/*methods
+MH  - Humans
+MH  - Liver/diagnostic imaging/surgery
+MH  - Liver Neoplasms/diagnostic imaging/pathology/secondary/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Selection
+MH  - Ultrasonography
+EDAT- 2008/03/26 09:00
+MHDA- 2008/05/09 09:00
+CRDT- 2008/03/26 09:00
+PHST- 2008/03/26 09:00 [pubmed]
+PHST- 2008/05/09 09:00 [medline]
+PHST- 2008/03/26 09:00 [entrez]
+AID - 00000658-200804000-00006 [pii]
+AID - 10.1097/SLA.0b013e31816387d7 [doi]
+PST - ppublish
+SO  - Ann Surg. 2008 Apr;247(4):603-11. doi: 10.1097/SLA.0b013e31816387d7.
+
+PMID- 11894036
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020418
+LR  - 20220330
+IS  - 0039-6060 (Print)
+IS  - 0039-6060 (Linking)
+VI  - 131
+IP  - 3
+DP  - 2002 Mar
+TI  - Extent of liver resection influences the outcome in patients with cirrhosis and 
+      small hepatocellular carcinoma.
+PG  - 311-7
+AB  - BACKGROUND: The long-term outcome after resection of hepatocellular carcinoma 
+      (HCC) is influenced by parameters related to the tumor and the underlying liver 
+      disease. However, the extent of the resection, which can be limited or anatomical 
+      (including the tumor and its portal territory), is controversial. METHODS: Among 
+      64 Child-Pugh A patients with cirrhosis who underwent curative liver resection 
+      for small HCC (< or = 4 cm) between 1990 and 1996, 34 patients underwent limited 
+      resection with a margin width of at least 1 cm, and 30 patients underwent 
+      anatomic resection of at least 1 liver segment with complete removal of the 
+      portal area containing the tumor. The 2 groups were comparable in terms of 
+      epidemiologic and pathologic parameters. The major end points were: (1) 
+      in-hospital mortality and morbidity; (2) overall and disease-free survival; and 
+      (3) rate and topography of recurrence. RESULTS: The 30-day mortality (6% vs 7%) 
+      and morbidity (52% vs 47%) rates after limited and anatomic liver resection were 
+      not statistically different. The 5- and 8-year overall survival rates after 
+      limited versus anatomic resection were, respectively, 35% versus 54% (P <.05) and 
+      6% versus 45% (P <.05). The 5- and 8-year disease-free survival rates were, 
+      respectively, 26% versus 45% and 0% versus 21% (P <.05). Local recurrence was 
+      more frequently observed after limited resections than after anatomic resections 
+      (50% vs 10%, P <.05). CONCLUSIONS: In patients with cirrhosis and a small HCC, 
+      anatomic resection achieves better disease-free survival than limited resection 
+      without increasing the postoperative risk. Therefore, anatomical resection should 
+      be the treatment of choice and considered as the reference surgical treatment 
+      compared with other treatments.
+FAU - Regimbeau, Jean-Marc
+AU  - Regimbeau JM
+AD  - Department of Hepatobiliary and Digestive Surgery, Beaujon Hospital, University 
+      of Paris VII, Clichy, France.
+FAU - Kianmanesh, Reza
+AU  - Kianmanesh R
+FAU - Farges, Olivier
+AU  - Farges O
+FAU - Dondero, Federica
+AU  - Dondero F
+FAU - Sauvanet, Alain
+AU  - Sauvanet A
+FAU - Belghiti, Jacques
+AU  - Belghiti J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Surgery
+JT  - Surgery
+JID - 0417347
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/*complications/*surgery
+MH  - Female
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Liver/*surgery
+MH  - Liver Cirrhosis/*complications
+MH  - Liver Neoplasms/*complications/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local
+MH  - Postoperative Complications
+MH  - *Surgical Procedures, Operative
+MH  - Survival Analysis
+MH  - Treatment Outcome
+EDAT- 2002/03/15 10:00
+MHDA- 2002/04/19 10:01
+CRDT- 2002/03/15 10:00
+PHST- 2002/03/15 10:00 [pubmed]
+PHST- 2002/04/19 10:01 [medline]
+PHST- 2002/03/15 10:00 [entrez]
+AID - S0039606002154316 [pii]
+AID - 10.1067/msy.2002.121892 [doi]
+PST - ppublish
+SO  - Surgery. 2002 Mar;131(3):311-7. doi: 10.1067/msy.2002.121892.
+
+PMID- 25839319
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151228
+LR  - 20181202
+IS  - 1557-9034 (Electronic)
+IS  - 1092-6429 (Linking)
+VI  - 25
+IP  - 5
+DP  - 2015 May
+TI  - Total anatomical laparoscopic liver resection of segment 4 (S4), extended S4, and 
+      subsegments S4a and S4b for hepatocellular carcinoma.
+PG  - 375-9
+LID - 10.1089/lap.2014.0443 [doi]
+AB  - BACKGROUND: When a tumor is located in segment 4 (S4), it is preferable to 
+      perform only limited resection of S4, even in laparoscopic surgery. Here we 
+      describe anatomical laparoscopic S4, subdivision of S4 (S4a and S4b), and 
+      extended S4 segmentectomy for hepatocellular carcinoma (HCC), using the 
+      Glissonian pedicle transection method for each, and evaluate the feasibility of 
+      laparoscopic liver resection (LLR) for tumors located in S4. PATIENTS AND 
+      METHODS: Among 417 patients who underwent LLR for malignant tumors between March 
+      2003 and February 2014, we performed retrospective analysis of the clinical and 
+      perioperative outcomes of 10 patients who underwent anatomical liver resection 
+      for tumors located in the S4 area of the liver. RESULTS: Total laparoscopic 
+      anatomic liver resection (S4, extended S4, and S4a and S4b segmentectomies) were 
+      performed in 10 patients. There was no open conversion or postoperative 
+      mortality. The mean operation time was 316.5 minutes (range, 175-460 minutes), 
+      and mean estimated blood loss was 592 mL (range, 100-1600 mL). An intraoperative 
+      transfusion was necessary in 2 (20%) of the 10 patients. All patients had 
+      negative resection margins. Three patients (30%) had postoperative complications 
+      (intraabdominal fluid collection). The mean postoperative hospital stay was 7.7 
+      days (range, 3-13 days). The median follow-up period was 18 months. Intrahepatic 
+      recurrence occurred in 2 (20%) of the 10 patients, which was managed by 
+      radiofrequency ablation with transarterial chemoembolization in 1 patient and by 
+      transarterial chemoembolization alone in the other patient. CONCLUSIONS: Total 
+      laparoscopic anatomical S4, extended S4, or S4a or S4b segmentectomy is a 
+      feasible procedure for HCC. The Glissonian pedicle transection method is an 
+      effective technique for rapid and safe control and subdivision of the S4 pedicle 
+      that facilitates anatomical laparoscopic S4, extended S4, and S4a and S4b 
+      segmentectomy.
+FAU - Kim, Young Ki
+AU  - Kim YK
+AD  - Department of Surgery, Seoul National University Bundang Hospital, Seoul National 
+      University College of Medicine , Seoul, Korea.
+FAU - Han, Ho-Seong
+AU  - Han HS
+FAU - Yoon, Yoo-Seok
+AU  - Yoon YS
+FAU - Cho, Jai Young
+AU  - Cho JY
+FAU - Lee, Woohyung
+AU  - Lee W
+LA  - eng
+PT  - Journal Article
+DEP - 20150403
+PL  - United States
+TA  - J Laparoendosc Adv Surg Tech A
+JT  - Journal of laparoendoscopic & advanced surgical techniques. Part A
+JID - 9706293
+SB  - IM
+MH  - Aged
+MH  - Ascites/etiology
+MH  - Blood Loss, Surgical
+MH  - Carcinoma, Hepatocellular/*surgery
+MH  - Female
+MH  - Hepatectomy/adverse effects/*methods
+MH  - Humans
+MH  - Laparoscopy/adverse effects/*methods
+MH  - Length of Stay
+MH  - Liver Neoplasms/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Recurrence, Local/*therapy
+MH  - Neoplasm, Residual
+MH  - Operative Time
+MH  - Retrospective Studies
+EDAT- 2015/04/04 06:00
+MHDA- 2015/12/29 06:00
+CRDT- 2015/04/04 06:00
+PHST- 2015/04/04 06:00 [entrez]
+PHST- 2015/04/04 06:00 [pubmed]
+PHST- 2015/12/29 06:00 [medline]
+AID - 10.1089/lap.2014.0443 [doi]
+PST - ppublish
+SO  - J Laparoendosc Adv Surg Tech A. 2015 May;25(5):375-9. doi: 10.1089/lap.2014.0443. 
+      Epub 2015 Apr 3.
+
+PMID- 32393005
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200526
+LR  - 20200526
+IS  - 0529-5815 (Print)
+IS  - 0529-5815 (Linking)
+VI  - 58
+IP  - 5
+DP  - 2020 May 1
+TI  - [Efficacy of three-dimensional visualization technology in the precision 
+      diagnosis and treatment for primary liver cancer: a retrospective multicenter 
+      study of 1 665 cases in China].
+PG  - 375-382
+LID - 10.3760/cma.j.cn112139-20200220-00105 [doi]
+AB  - Objective: To evaluate the efficacy of three-dimensional(3D) visualization 
+      technology in the precision diagnosis and treatment for primary liver cancer. 
+      Methods: A total of 1 665 patients with primary liver cancer who admitted to 
+      seven medical centers in China between January 2009 to January 2019, diagnosed 
+      and treated by 3D visualization protocol were analyzed, and their clinical data 
+      were retrospectively reviewed. There were 1 255 males(75.4%) and 410 
+      females(24.6%), with age of (52.9±11.9) years (range: 18 to 86 years). The 
+      acquisition of high-quality CT images with submillimeter spatial resolution were 
+      conducted using a quality control system. By means of homogenization methods, 3D 
+      reconstruction and 3D visualization analysis were performed. Postoperative 
+      observation: pathology reports, microvascular invasion, perioperative 
+      complications and follow-up. SPSS 25.0 statistical software was used for 
+      statistical description and analysis of clinical data. Kaplan-Meier curve was 
+      used to calculate overall survival and disease-free survival rate. Results: (1)In 
+      the sample of 1 265 patients, 3D reconstructed models clearly displayed as 
+      follows. tumor size: ≤2 cm in 155 cases (9.31%), >2 cm to 5 cm in 551 cases 
+      (33.09%), >5 cm to 10 cm in 636 cases (38.20%), >10 cm in 323 cases (19.40%). (2) 
+      Classification of hepatic blood vessels. Hepatic artery: type Ⅰ(normal type) in 1 
+      494 cases(89.73%),variant hepatic artery in 171 cases (10.27%), including type Ⅱ 
+      in 35 cases, type Ⅲ in 38 cases, and other types in 98 cases. Hepatic vein: type 
+      Ⅰ (normal) in 1 195 cases (71.77%),variant hepatic veins in 470 cases(28.23%), 
+      including type Ⅱ in 376 cases and type Ⅲ in 94 cases. Portal vein:normal type in 
+      1 315 cases (78.98%), variant portal veins in 350 cases (21.02%), including type 
+      Ⅰ in 189 cases, type Ⅱin 103 cases, type Ⅲ in 50 cases, type Ⅳ in 8 cases. 
+      Hepatic artery variation coexisting with portal vein variation in 24 cases 
+      (1.44%). Hepatic vein variation coexisting with portal vein variation in 113 
+      cases (6.79%). Three types of vascular variation in 4 cases (0.24%), including 
+      coexistence of type Ⅱ hepatic artery variation or type Ⅰ portal vein variation 
+      with type Ⅲ hepatic vein variation in 2 cases,coexistence of type Ⅲ hepatic 
+      artery variation or type Ⅲ portal vein variation with type Ⅱ hepatic vein 
+      variation in 2 cases. (3) Preoperative liver volume calculation:1 499.3 (514.4)ml 
+      (range:641.7 to 6 637.0 ml) of total liver volume, including 479.1 (460.1) ml 
+      (range:10.5 to 2 086.8 ml) for liver resection and 959.9 (460.4)ml (range:306.1 
+      to 5 638.0 ml) for residual function. (4)Operative methods: anatomical 
+      hepatectomy in 1 458 cases (87.57%); non-anatomic hepatectomy in 207 cases 
+      (12.43%). (5)the median operation time was 285(165)minutes (range: 40 to720 
+      minutes). (6)The median intraoperative blood loss was 200(250)ml (range:10 to 4 
+      200 ml) and 346 cases (20.78%) had intraoperative transfusion. (7)Pathology 
+      reports: hepatocellular carcinoma in 1 371 cases (82.34%), cholangiocarcinoma in 
+      260 cases (15.62%) and mixed hepatocellular carcinoma in 34 cases (2.04%). 
+      Microvascular invasion: M0 in 199 cases, M1 in 64 cases, and M2 in 27 cases. 
+      (8)Postoperative complications in 207 cases (12.43%), including Clavien-Dindo 
+      grade Ⅰ or Ⅱ in 57 cases, grade Ⅲ or Ⅳ in 147 cases and grade Ⅴ in 3 cases.There 
+      were 13 cases (0.78%) of liver failure and 3 cases (0.18%) of perioperative 
+      death. (9) The follow-up time was 3.0 to 96.0 months, with a median time of 
+      21.0(17.8) years. The overall 3-year survival and disease-free survival rates 
+      were 80.0% and 56.5%, respectively. The overall 5-year survival and disease-free 
+      survival rates were 59.7% and 30.0%, respectively. Conclusion: 3D visualization 
+      technology plays an important role in realizing accurate diagnosis of anatomical 
+      location and morphology of primary liver cancer, improving the success rate of 
+      surgery and reducing the incidence of complications.
+FAU - Fang, C H
+AU  - Fang CH
+AD  - First Department of Hepatobiliary Surgery, Zhujiang Hospital, Southern Medical 
+      University, Guangdong Provincial Clinical and Engineering Center of Digital 
+      Medicine, Guangzhou 510282, China.
+FAU - Zhang, P
+AU  - Zhang P
+AD  - First Department of Hepatobiliary Surgery, Zhujiang Hospital, Southern Medical 
+      University, Guangdong Provincial Clinical and Engineering Center of Digital 
+      Medicine, Guangzhou 510282, China.
+FAU - Zhou, W P
+AU  - Zhou WP
+AD  - Third Department of Hepatic Surgery, Eastern Hepatobiliary Surgery Hospital, 
+      Affiliated to Naval Medical University, Shanghai 200433, China.
+FAU - Zhou, J
+AU  - Zhou J
+AD  - Department of Liver Surgery and Transplantation, Liver Cancer Institute, 
+      Zhongshan Hospital, Fudan University, Shanghai 200438, China.
+FAU - Dai, C L
+AU  - Dai CL
+AD  - Department of Hepatobiliary Surgery, Shengjing Hospital of China Medical 
+      University, Shenyang 110004, China.
+FAU - Liu, J F
+AU  - Liu JF
+AD  - Mengchao Hepatobiliary Hospital of Fujian Medical University, Fuzhou 350025, 
+      China.
+FAU - Jia, W D
+AU  - Jia WD
+AD  - Department of General Surgery, First Affiliated Hospital of University of Science 
+      and Technology of China, Hefei 230001, China.
+FAU - Liang, X
+AU  - Liang X
+AD  - Department of General Surgery, Sir Run Run Shaw Hospital, School of Medicine, 
+      Zhejiang University, Hangzhou 310016, China.
+FAU - Zeng, S L
+AU  - Zeng SL
+AD  - First Department of Hepatobiliary Surgery, Zhujiang Hospital, Southern Medical 
+      University, Guangdong Provincial Clinical and Engineering Center of Digital 
+      Medicine, Guangzhou 510282, China.
+FAU - Wen, S
+AU  - Wen S
+AD  - First Department of Hepatobiliary Surgery, Zhujiang Hospital, Southern Medical 
+      University, Guangdong Provincial Clinical and Engineering Center of Digital 
+      Medicine, Guangzhou 510282, China.
+LA  - chi
+GR  - 2016YFC0106500/National Key Research and Development Program/
+GR  - 2006AA02Z346, 2012AA021105/National High-tech R&D Program of China (863 Program)/
+GR  - 81627805/The National MajorScientific Instrument and Equipment Special Project/
+GR  - U1401254/National Natural Science Foundation of China-Guangdong Union Foundation/
+GR  - 6200171/Natural Science Foundation of Guangdong Province, China/
+GR  - 2012A080203013/Major Science and Technology Projects of Guangdong Province/
+GR  - 2009B080701077/Special Project on the Integration of Industry, Education and 
+      Research of Guangdong Province/
+GR  - 201604020144/Science and Technology Plan Project of Guangzhou/
+PT  - Journal Article
+PT  - Multicenter Study
+PL  - China
+TA  - Zhonghua Wai Ke Za Zhi
+JT  - Zhonghua wai ke za zhi [Chinese journal of surgery]
+JID - 0153611
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Bile Duct Neoplasms/*diagnostic imaging/surgery
+MH  - Carcinoma, Hepatocellular/*diagnostic imaging/surgery
+MH  - China
+MH  - Cholangiocarcinoma/*diagnostic imaging/surgery
+MH  - Female
+MH  - Hepatectomy/methods
+MH  - Humans
+MH  - *Imaging, Three-Dimensional
+MH  - Liver Neoplasms/*diagnostic imaging/surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Portal Vein/diagnostic imaging/surgery
+MH  - Retrospective Studies
+MH  - *Tomography, X-Ray Computed
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Clinical efficacy
+OT  - Diagnosis
+OT  - Liver neoplasms
+OT  - Preoperative planning
+OT  - Three-dimensional visualization
+EDAT- 2020/05/13 06:00
+MHDA- 2020/05/27 06:00
+CRDT- 2020/05/13 06:00
+PHST- 2020/05/13 06:00 [entrez]
+PHST- 2020/05/13 06:00 [pubmed]
+PHST- 2020/05/27 06:00 [medline]
+AID - 10.3760/cma.j.cn112139-20200220-00105 [doi]
+PST - ppublish
+SO  - Zhonghua Wai Ke Za Zhi. 2020 May 1;58(5):375-382. doi: 
+      10.3760/cma.j.cn112139-20200220-00105.
+
+PMID- 25956724
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160624
+LR  - 20220330
+IS  - 1873-4626 (Electronic)
+IS  - 1091-255X (Linking)
+VI  - 19
+IP  - 7
+DP  - 2015 Jul
+TI  - The Impact of Tumor Size on Long-Term Survival Outcomes After Resection of 
+      Solitary Hepatocellular Carcinoma: Single-Institution Experience with 2558 
+      Patients.
+PG  - 1281-90
+LID - 10.1007/s11605-015-2849-5 [doi]
+AB  - BACKGROUND: According to the 7th AJCC TNM staging system, solitary hepatocellular 
+      carcinoma (HCC) is classified as T1 or T2 based on microvascular invasion (MVI) 
+      regardless of tumor size. This study intended to evaluate the prognostic impact 
+      of tumor size on survival outcomes after macroscopic curative resection of 
+      solitary HCC. METHODS: Patients who underwent R0 resection of solitary HCC <10 cm 
+      (n = 2558) were selected for study. Follow-up lasted ≥24 months or until death. 
+      RESULTS: HCC was detected during regular health screening or routine follow-up in 
+      2054 cases (80.3%). Hepatitis B virus (HBV) infection was associated in 2127 
+      (83.2%). Mean patient age was 54.4 ± 9.9 years. Anatomical resection was 
+      performed in 1786 (69.8%). MVI was identified in 407 (16.0%) which therefore 
+      became stage T2; the other 2150 became stage T1. Tumor recurrence and patient 
+      survival rates were 24.9 and 95.0% after 1 year, 49.6 and 84.1% after 3 years, 
+      57.7 and 75.0 % after 5 years, and 67.3 and 56.6% after 10 years, respectively. 
+      Multivariate analysis showed that non-anatomical resection, MVI, and tumor size 
+      >5 cm were independent risk factors for both tumor recurrence and overall patient 
+      survival. Long-term survival correlated negatively with tumor size and MVI. 
+      Subgroup analysis with MVI and size cutoff of 5 cm revealed a significant 
+      survival difference (p = 0.000). Tumor size >5 cm was not a significant 
+      prognostic factor in non-HBV patients. CONCLUSIONS: These results suggest that 
+      the prognostic impact of tumor size may be underestimated in the current version 
+      of the AJCC staging system and that solitary HCC staging could be improved with 
+      inclusion of tumor size cutoff of 5 cm in HBV-associated patients. Further 
+      validation is necessary with multicenter studies.
+FAU - Hwang, Shin
+AU  - Hwang S
+AD  - Department of Surgery, Asan Medical Center, University of Ulsan College of 
+      Medicine, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 138-736, South Korea, 
+      shwang@amc.seoul.kr.
+FAU - Lee, Young-Joo
+AU  - Lee YJ
+FAU - Kim, Ki-Hun
+AU  - Kim KH
+FAU - Ahn, Chul-Soo
+AU  - Ahn CS
+FAU - Moon, Deok-Bog
+AU  - Moon DB
+FAU - Ha, Tae-Yong
+AU  - Ha TY
+FAU - Song, Gi-Won
+AU  - Song GW
+FAU - Jung, Dong-Hwan
+AU  - Jung DH
+FAU - Lee, Sung-Gyu
+AU  - Lee SG
+LA  - eng
+PT  - Journal Article
+DEP - 20150509
+PL  - United States
+TA  - J Gastrointest Surg
+JT  - Journal of gastrointestinal surgery : official journal of the Society for Surgery 
+      of the Alimentary Tract
+JID - 9706084
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Carcinoma, Hepatocellular/mortality/*pathology/surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Liver Neoplasms/mortality/*pathology/surgery
+MH  - Male
+MH  - Microvessels/pathology
+MH  - Middle Aged
+MH  - Neoplasm Invasiveness
+MH  - Neoplasm Recurrence, Local/mortality/*pathology
+MH  - Neoplasm Staging
+MH  - Prognosis
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - Survival Rate
+MH  - *Tumor Burden
+MH  - Young Adult
+EDAT- 2015/05/10 06:00
+MHDA- 2016/06/25 06:00
+CRDT- 2015/05/10 06:00
+PHST- 2015/02/03 00:00 [received]
+PHST- 2015/04/30 00:00 [accepted]
+PHST- 2015/05/10 06:00 [entrez]
+PHST- 2015/05/10 06:00 [pubmed]
+PHST- 2016/06/25 06:00 [medline]
+AID - 10.1007/s11605-015-2849-5 [doi]
+PST - ppublish
+SO  - J Gastrointest Surg. 2015 Jul;19(7):1281-90. doi: 10.1007/s11605-015-2849-5. Epub 
+      2015 May 9.
+
+PMID- 27127765
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160429
+LR  - 20220408
+IS  - 2305-5839 (Print)
+IS  - 2305-5847 (Electronic)
+IS  - 2305-5839 (Linking)
+VI  - 4
+IP  - 6
+DP  - 2016 Mar
+TI  - Long-term survival with repeated resections of recurrent hepatocellular carcinoma 
+      in a non-cirrhotic liver: case report and brief review of the literature.
+PG  - 112
+LID - 10.21037/atm.2016.03.14 [doi]
+LID - 112
+AB  - A healthy and asymptomatic 55-year-old woman underwent a complete (R0) 
+      non-anatomical resection of an incidentally detected solitary hepatocellular 
+      carcinoma (HCC) in a non-cirrhotic liver. Six years following the initial R0 
+      non-anatomical resection, intrahepatic recurrence was diagnosed and the patient 
+      underwent a second R0 non-anatomical resection. At 12.5 years following the 
+      initial resection, a further intrahepatic recurrence was diagnosed, which was 
+      once again completely resected by left lateral hepatectomy. This represents one 
+      of the longest reported periods between initial resection and HCC recurrence, 
+      following repeated R0 resections in the absence of cirrhosis. The appropriate 
+      surveillance period and genetic testing protocol for such cases remains to be 
+      established.
+FAU - Hadjittofi, Christopher
+AU  - Hadjittofi C
+AD  - 1 Department of Cardiothoracic Surgery, King's College Hospital, Denmark Hill, 
+      London, UK ; 2 Department of HPB & Liver Transplant Surgery, Royal Free Hospital, 
+      London, UK ; 3 Department of Pharmacy & Forensic Science, King's College London, 
+      Strand, London, UK ; 4 Research Department of General Surgery, University College 
+      London, Gower Street, London, UK.
+FAU - Athanasopoulos, Panagiotis G
+AU  - Athanasopoulos PG
+AD  - 1 Department of Cardiothoracic Surgery, King's College Hospital, Denmark Hill, 
+      London, UK ; 2 Department of HPB & Liver Transplant Surgery, Royal Free Hospital, 
+      London, UK ; 3 Department of Pharmacy & Forensic Science, King's College London, 
+      Strand, London, UK ; 4 Research Department of General Surgery, University College 
+      London, Gower Street, London, UK.
+FAU - Koti, Rahul S
+AU  - Koti RS
+AD  - 1 Department of Cardiothoracic Surgery, King's College Hospital, Denmark Hill, 
+      London, UK ; 2 Department of HPB & Liver Transplant Surgery, Royal Free Hospital, 
+      London, UK ; 3 Department of Pharmacy & Forensic Science, King's College London, 
+      Strand, London, UK ; 4 Research Department of General Surgery, University College 
+      London, Gower Street, London, UK.
+FAU - Konstantinidou, Sofia K
+AU  - Konstantinidou SK
+AD  - 1 Department of Cardiothoracic Surgery, King's College Hospital, Denmark Hill, 
+      London, UK ; 2 Department of HPB & Liver Transplant Surgery, Royal Free Hospital, 
+      London, UK ; 3 Department of Pharmacy & Forensic Science, King's College London, 
+      Strand, London, UK ; 4 Research Department of General Surgery, University College 
+      London, Gower Street, London, UK.
+FAU - Davidson, Brian R
+AU  - Davidson BR
+AD  - 1 Department of Cardiothoracic Surgery, King's College Hospital, Denmark Hill, 
+      London, UK ; 2 Department of HPB & Liver Transplant Surgery, Royal Free Hospital, 
+      London, UK ; 3 Department of Pharmacy & Forensic Science, King's College London, 
+      Strand, London, UK ; 4 Research Department of General Surgery, University College 
+      London, Gower Street, London, UK.
+LA  - eng
+GR  - 10/4001/11/DH_/Department of Health/United Kingdom
+PT  - Case Reports
+PL  - China
+TA  - Ann Transl Med
+JT  - Annals of translational medicine
+JID - 101617978
+PMC - PMC4828750
+OTO - NOTNLM
+OT  - Hepatocellular
+OT  - cirrhosis
+OT  - hepatectomy
+OT  - liver
+OT  - recurrent
+COIS- Conflicts of Interest: The authors have no conflicts of interest to declare.
+EDAT- 2016/04/30 06:00
+MHDA- 2016/04/30 06:01
+CRDT- 2016/04/30 06:00
+PHST- 2016/04/30 06:00 [entrez]
+PHST- 2016/04/30 06:00 [pubmed]
+PHST- 2016/04/30 06:01 [medline]
+AID - atm-04-06-112 [pii]
+AID - 10.21037/atm.2016.03.14 [doi]
+PST - ppublish
+SO  - Ann Transl Med. 2016 Mar;4(6):112. doi: 10.21037/atm.2016.03.14.
+
+PMID- 14578728
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031202
+LR  - 20181113
+IS  - 0003-4932 (Print)
+IS  - 1528-1140 (Electronic)
+IS  - 0003-4932 (Linking)
+VI  - 238
+IP  - 5
+DP  - 2003 Nov
+TI  - Hand-assisted laparoscopic hepatectomy for solid tumor in the posterior portion 
+      of the right lobe: initial experience.
+PG  - 674-9
+AB  - OBJECTIVE: To prove the feasibility of hand-assisted laparoscopic liver resection 
+      for tumors located in the posterior portion of the right hepatic lobe. SUMMARY 
+      BACKGROUND DATA: Use of laparoscopic liver resection remains limited due to 
+      problems with technique, especially when the tumor is located near the diaphragm, 
+      or in the posterior portion of the right lobe. METHODS: Between October 2001 and 
+      June 2002, a total of 7 patients with solid hepatic tumors involving the 
+      posterior portion of the right lobe of liver underwent hand-assisted laparoscopic 
+      hepatectomy with the HandPort system at our hospital. Surgical techniques used 
+      included CO2 pneumoperitoneum and the creation of a wound on the right upper 
+      quadrant of the abdomen for HandPort placement. The location of tumor and its 
+      transection margin were decided by laparoscopic ultrasound. The liver resection 
+      was performed using the Ultrashear without portal triad control, with the 
+      specimens obtained then placed in a bag and removed directly via the HandPort 
+      access. RESULTS: The 5 male and 2 female patients ranged in age from 41 to 76 
+      years (mean 62.3 +/- 14.4). Surgical procedures included partial hepatectomy for 
+      6 patients and segmentectomy for one, all successfully completed using a variant 
+      of the minimally invasive laparoscopic procedure without conversion to open 
+      surgery. The mean duration of the operation was 140.7 +/- 42.2 minutes (90-180). 
+      The blood loss during surgery was 257.1 +/- 159 mL (250-500), without any 
+      requirement for intraoperative or postoperative transfusion. Pathology revealed 
+      hemagioma (n = 2), colon cancer metastasis (n = 2), and hepatocellular carcinoma 
+      (n = 3). There were no deaths postoperatively, with 1 patient suffering bile 
+      leakage. Mean hospital stay was 5.3 +/- 1.3 days postsurgery. CONCLUSION: The 
+      results of this study suggest that laparoscopic liver resection using the 
+      HandPort system is feasible for selected patients with lesions in the posterior 
+      portion of the right hepatic lobe requiring limited resection. Individuals with 
+      small tumors may benefit; because a large abdominal incision is not required, the 
+      wound-related complication rate might be reduced.
+FAU - Huang, Ming-Te
+AU  - Huang MT
+AD  - Department of Surgery, En-Chu-Kong Hospital, 399 Fuhsing Rd., San-Shia Town, 
+      Taipei Hsien, 237, Taiwan. mthuant@giga.net.tw
+FAU - Lee, Wei-Jei
+AU  - Lee WJ
+FAU - Wang, Weu
+AU  - Wang W
+FAU - Wei, Po-Li
+AU  - Wei PL
+FAU - Chen, Robert J
+AU  - Chen RJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Ann Surg
+JT  - Annals of surgery
+JID - 0372354
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Blood Loss, Surgical
+MH  - Carcinoma, Hepatocellular/surgery
+MH  - Colonic Neoplasms/pathology
+MH  - Feasibility Studies
+MH  - Female
+MH  - Hemangioma/surgery
+MH  - Hepatectomy/*methods
+MH  - Humans
+MH  - *Laparoscopy
+MH  - Liver Neoplasms/secondary/*surgery
+MH  - Male
+MH  - Middle Aged
+PMC - PMC1356144
+EDAT- 2003/10/28 05:00
+MHDA- 2003/12/03 05:00
+CRDT- 2003/10/28 05:00
+PHST- 2003/10/28 05:00 [pubmed]
+PHST- 2003/12/03 05:00 [medline]
+PHST- 2003/10/28 05:00 [entrez]
+AID - 00000658-200311000-00006 [pii]
+AID - 0000658-200311000-00006 [pii]
+AID - 10.1097/01.sla.0000094301.21038.8d [doi]
+PST - ppublish
+SO  - Ann Surg. 2003 Nov;238(5):674-9. doi: 10.1097/01.sla.0000094301.21038.8d.
+
+PMID- 8175254
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940609
+LR  - 20091111
+IS  - 0020-8868 (Print)
+IS  - 0020-8868 (Linking)
+VI  - 78
+IP  - 4
+DP  - 1993 Oct-Dec
+TI  - Changing trends in hepatic resection for malignant liver tumours.
+PG  - 292-4
+AB  - The records of 57 patients who underwent 65 liver resections for malignant 
+      tumours were reviewed. All patients were treated from August 1989 to November 
+      1992 at the Hammersmith Hospital. The type of resections performed were: 13 
+      extended right hepatectomies, 12 right hepatectomies, 12 left hepatectomies, 1 
+      extended left hepatectomy, 7 unisegmentectomies, 10 bisegmentectomies, 3 
+      trisegmentectomies and 3 non-anatomical resections. Operative mortality was 1.5% 
+      (1 patient). Repeated liver resections for tumour recurrence were performed in 6 
+      patients with satisfactory early results. The mean postoperative hospital stay 
+      was 19.7 +/- 14.2 days. Improvements in operative results have led to relaxation 
+      of resectability criteria. A policy of liver resection for "early" tumours for 
+      cure has been extended to "advanced" lesions for symptoms palliation. Liver 
+      resection still remains a major operation but has become a routine safe surgical 
+      procedure.
+FAU - Habib, N
+AU  - Habib N
+AD  - Department of Surgery, Royal Postgraduate Medical School, Hammersmith Hospital, 
+      London, UK.
+FAU - Zografos, G
+AU  - Zografos G
+FAU - Koh, M
+AU  - Koh M
+FAU - Awad, R
+AU  - Awad R
+FAU - Dalla Serra, G
+AU  - Dalla Serra G
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Italy
+TA  - Int Surg
+JT  - International surgery
+JID - 0043524
+SB  - IM
+MH  - Carcinoma, Hepatocellular/mortality/*surgery
+MH  - Colorectal Neoplasms/pathology
+MH  - Female
+MH  - Hepatectomy/*methods
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Length of Stay
+MH  - Liver Neoplasms/mortality/*secondary/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Reoperation
+MH  - Survival Rate
+EDAT- 1993/10/01 00:00
+MHDA- 1993/10/01 00:01
+CRDT- 1993/10/01 00:00
+PHST- 1993/10/01 00:00 [pubmed]
+PHST- 1993/10/01 00:01 [medline]
+PHST- 1993/10/01 00:00 [entrez]
+PST - ppublish
+SO  - Int Surg. 1993 Oct-Dec;78(4):292-4.
+
+PMID- 9745086
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981112
+LR  - 20191102
+IS  - 0944-1166 (Print)
+IS  - 0944-1166 (Linking)
+VI  - 5
+IP  - 2
+DP  - 1998
+TI  - Hepatectomy with microwave tissue coagulation for hepatocellular carcinoma.
+PG  - 184-91
+AB  - From 1984 through 1994, 99 consecutive patients with hepatocellular carcinoma 
+      (HCC) underwent hepa-tectomy with microwave tissue coagulation (MTC). We 
+      performed limited resection (Hr0) in 28 patients, subsegmentectomy (HrS) in 25 
+      patients, segmentectomy (Hr1) in 21 patients, and lobectomy or extended lobectomy 
+      (Hr2) in 25 patients. The patients were divided into two groups: group A, 86 
+      patients with tumors smaller than 1 kg and no tumor thrombi in the main portal 
+      trunk; and group B, 13 patients with a tumor 1 kg or larger, or with macroscopic 
+      tumor thrombi in the main portal trunk. In group A, mean blood loss was 838 ml 
+      for Hr0, 1948 ml for HrS, 1765 ml for Hr1, and 1325 ml for Hr2. The mean 
+      operative time in group A ranged from 3 h 43 min for Hr0 to 4 h 57 min for Hr2. 
+      In group B, the mean operative time was 6 h 3 min and mean blood loss was 6053 
+      ml. Our MTC method was associated with an in-hospital mortality rate of 3% and a 
+      major complication rate of 13.1%. The 5-year survival and disease-free survival 
+      rates were 43.4% and 25.4%, respectively. The 5-year survival rate of patients 
+      without portal tumor thrombi (50.9%) was significantly better than that of 
+      patients with portal tumor thrombi (11.9%) (P < 0.001). The 5-year survival rate 
+      of patients who underwent curative resection (58.1%) was significantly better 
+      than that of patients who underwent noncurative resection (22.9%) (P < 0.001). 
+      The 5-year survival rates of patients in group A without portal tumor thrombi did 
+      not differ between those who had cancer-negative margins (54.0%) and those with 
+      cancerpositive margins (49.6%) at resection. Recurrence and local recurrence 
+      rates did not differ in patients with cancer-positive margins (63.6% and 7.3%, 
+      respectively) and patients with cancer-negative margins (56.5% and 8.7%, 
+      respectively). These results suggested that microscopic residual cancer in the 
+      resected margin was coagulated by MTC. Blood loss, operative time, and clinical 
+      outcome in this series of 99 consecutive hepatectomies were comparable with 
+      values in earlier reports in which such hemostatic methods as the Pringle 
+      maneuver were used. We conclude that hepatectomy with MTC is useful and safe and 
+      produces consistent results.
+FAU - Ryu, M
+AU  - Ryu M
+AD  - Division of Surgery, National Cancer Center Hospital East, 6-5-1 Kashiwanoha, 
+      Kashiwa-shi, Chiba, 277 Japan.
+FAU - Watanabe, K
+AU  - Watanabe K
+FAU - Yamamoto, H
+AU  - Yamamoto H
+LA  - eng
+PT  - Journal Article
+PL  - Japan
+TA  - J Hepatobiliary Pancreat Surg
+JT  - Journal of hepato-biliary-pancreatic surgery
+JID - 9431940
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Blood Loss, Surgical
+MH  - Carcinoma, Hepatocellular/mortality/pathology/*surgery
+MH  - Female
+MH  - Hemostasis, Surgical
+MH  - Hepatectomy/*methods/mortality
+MH  - Humans
+MH  - Liver Neoplasms/mortality/pathology/*surgery
+MH  - Male
+MH  - *Microwaves
+MH  - Middle Aged
+MH  - Postoperative Complications
+MH  - Survival Rate
+MH  - Treatment Outcome
+EDAT- 1998/09/24 00:00
+MHDA- 1998/09/24 00:01
+CRDT- 1998/09/24 00:00
+PHST- 1998/09/24 00:00 [pubmed]
+PHST- 1998/09/24 00:01 [medline]
+PHST- 1998/09/24 00:00 [entrez]
+AID - 10.1007/s005340050031 [doi]
+PST - ppublish
+SO  - J Hepatobiliary Pancreat Surg. 1998;5(2):184-91. doi: 10.1007/s005340050031.
+
+PMID- 8269741
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19940201
+LR  - 20061115
+IS  - 0009-4722 (Print)
+IS  - 0009-4722 (Linking)
+VI  - 64
+IP  - 10
+DP  - 1993 Oct
+TI  - [Single hepatocellular carcinoma (phi < or = 5 cm) in liver cirrhosis. Early 
+      diagnosis and surgical removal].
+PG  - 784-8
+AB  - 721 patients with liver cirrhosis were regularly screened by sonography and 
+      determination of alpha fetoprotein during a period of eleven years 
+      (1.1.1982-1.1.1993). In 137 of them hepatocellular carcinoma (HCC) was diagnosed; 
+      28 (20.4%) had a unilocular HCC with a diameter up to 5 cm. Diagnosis was 
+      regularly verified by sonographic guided puncture, in rare cases by laparoscopy 
+      and biopsy. Beside a diameter of 5 cm the tumor should be localized at least 5 mm 
+      from the main structures in the hilus, and not in the centre of the liver; 
+      furthermore multilocular hepatocellular carcinomas and intra- and extrahepatic 
+      metastases were contraindications. Child-Pugh-classification should be A+B and 
+      urea synthesis rate at least 6 g per day. In 21 patients (75%) a portal 
+      hypertension was diagnosed; 19 (68%) had bled from esophageal varices; in case of 
+      one bleeding a therapeutic sclerotherapy and in case of recurrent variceal 
+      hemorrhage an elective shunt operation were performed. Surgical resection was 
+      carried out with controlled hypotension and temporary occlusion of the 
+      hepatoduodenal ligament. Tumor was removed by segmentectomy or bisegmentectomy 
+      and in rare cases by enucleation. There were 3 clinical deaths (10.7%); causes of 
+      death were liver failure and (2) sepsis (1). All patients could be followed up to 
+      January 1, 1993; there were 12 further deaths of liver failure, tumor recurrence 
+      or second tumor. 13 patients are still living. Thus the live expectancy for one 
+      year was 80, for 5 years 50 and for 10 years 30%. There is no doubt, that it is 
+      possible to detect hepatocellular carcinoma in patients with liver cirrhosis 
+      early by regular sonography and determination of alpha-fetoprotein.(ABSTRACT 
+      TRUNCATED AT 250 WORDS)
+FAU - Paquet, K J
+AU  - Paquet KJ
+AD  - Department für Chirurgie-Gefässchirurgie, Heinz-Kalk-Krankenhaus Bad Kissingen.
+FAU - Lazar, A
+AU  - Lazar A
+FAU - Rambach, W
+AU  - Rambach W
+FAU - Kuhn, R
+AU  - Kuhn R
+LA  - ger
+PT  - Clinical Trial
+PT  - English Abstract
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+TT  - Singuläres, hepatocelluläres Carcinom (phi < or = 5 cm) in Lebercirrhose. 
+      Frühdiagnose und chirurgische Entfernung.
+PL  - Germany
+TA  - Chirurg
+JT  - Der Chirurg; Zeitschrift fur alle Gebiete der operativen Medizen
+JID - 16140410R
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/diagnosis/mortality/pathology/*surgery
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Liver/pathology
+MH  - Liver Function Tests
+MH  - Liver Neoplasms/diagnosis/mortality/pathology/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Staging
+MH  - Postoperative Complications/diagnosis/mortality/surgery
+MH  - Precancerous Conditions/diagnosis/mortality/pathology/*surgery
+MH  - Survival Rate
+MH  - Ultrasonography
+EDAT- 1993/10/01 00:00
+MHDA- 1993/10/01 00:01
+CRDT- 1993/10/01 00:00
+PHST- 1993/10/01 00:00 [pubmed]
+PHST- 1993/10/01 00:01 [medline]
+PHST- 1993/10/01 00:00 [entrez]
+PST - ppublish
+SO  - Chirurg. 1993 Oct;64(10):784-8.
+
+PMID- 16610175
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060629
+LR  - 20110113
+IS  - 0048-7848 (Print)
+IS  - 0048-7848 (Linking)
+VI  - 109
+IP  - 4
+DP  - 2005 Oct-Dec
+TI  - [Liver resection for hepatocellular carcinoma in cirrhotic patients].
+PG  - 770-80
+AB  - The incidence of hepatocellular carcinoma (HCC) in cirrhotic patients is 
+      increasing. Despite advances in imaging and laboratory screening which allow 
+      earlier diagnosis, the surgeon is all too often confronted with an HCC of 
+      advanced stage or arising in the setting of severe cirrhosis. Hepatic resection 
+      is still considered the treatment of choice for hepatocellular carcinoma in 
+      patients with liver cirrhosis. From 1998 to 2005, 6 patients (5 males, 1 female, 
+      age 52-70 years, mean age 64.1 years) with HCC associated severe, but well 
+      compensated liver cirrhosis (Child A-- 4 patients, Child B--2 patients) underwent 
+      9 hepatic resection in our department. Mean tumor size was 56 mm (range 23-86 
+      mm). Two of these lesions were in the left liver and four in the right lobe. 
+      Doppler ultrasonography was performed in all cases and CT in 3 cases to confirm 
+      the extension of the lesions. Laparoscopy was performed in 3 patients under CO2 
+      pneumoperitoneum. The Pringle maneuver was not used. The transection of the liver 
+      parenchyma was obtained by the use of Ligasure and harmonic scalpel. Nine hepatic 
+      resections were performed: 7 segmentectomy and 2 non-anatomical resections. The 
+      resection margin was 1 cm. The mean operative time was 90 minutes (range 60-120). 
+      Mean blood loss was 250 ml and 2 patients required blood transfusion. One patient 
+      died on the tenth postoperative day from a severe respiratory distress syndrome 
+      and hepatic failure. Major morbidities occurred in three patients who developed 
+      moderate postoperative ascites, which resolved successfully with conservative 
+      treatment in two patients. Limited liver resection in cirrhotic patients with HCC 
+      is feasible with a low complication rate when careful selection criteria are 
+      followed (tumor size smaller than 8 cm, Child-Pugh A class and the good general 
+      conditions of the patients). Other medical and interventional treatments 
+      (chemoembolization, chemotherapy) can only slow the progress of HCC.
+FAU - Târcoveanu, E
+AU  - Târcoveanu E
+AD  - Centrul de Cercetare in Chirurgie Generală Clasică si Laparoscopică, Clinica I 
+      Chirurgie "I. Tănăsescu - Vl. Buţureanu", Facultatea de Medicină, Universitatea 
+      de Medicină si Farmacie "Gr. T. Popa", Iaşi.
+FAU - Lupaşcu, C
+AU  - Lupaşcu C
+FAU - Georgescu, St
+AU  - Georgescu S
+FAU - Zugun, Fl
+AU  - Zugun F
+FAU - Crumpei, Felicia
+AU  - Crumpei F
+FAU - Epure, Oana
+AU  - Epure O
+FAU - Nicorici, Cristina
+AU  - Nicorici C
+FAU - Canschi, Gabriela
+AU  - Canschi G
+FAU - Ferariu, D
+AU  - Ferariu D
+LA  - rum
+PT  - Case Reports
+PT  - English Abstract
+PT  - Journal Article
+TT  - Rezecţia hepatică in carcinomul hepatocelular dezvoltat pe ciroză.
+PL  - Romania
+TA  - Rev Med Chir Soc Med Nat Iasi
+JT  - Revista medico-chirurgicala a Societatii de Medici si Naturalisti din Iasi
+JID - 0413735
+SB  - IM
+MH  - Aged
+MH  - Carcinoma, Hepatocellular/complications/diagnosis/*surgery/therapy
+MH  - Feasibility Studies
+MH  - Female
+MH  - *Hepatectomy
+MH  - Humans
+MH  - Liver Cirrhosis/complications/diagnosis/*surgery/therapy
+MH  - Liver Neoplasms/complications/diagnosis/*surgery/therapy
+MH  - Male
+MH  - Medical Records
+MH  - Middle Aged
+MH  - Patient Selection
+MH  - Retrospective Studies
+MH  - Treatment Outcome
+EDAT- 2006/04/14 09:00
+MHDA- 2006/06/30 09:00
+CRDT- 2006/04/14 09:00
+PHST- 2006/04/14 09:00 [pubmed]
+PHST- 2006/06/30 09:00 [medline]
+PHST- 2006/04/14 09:00 [entrez]
+PST - ppublish
+SO  - Rev Med Chir Soc Med Nat Iasi. 2005 Oct-Dec;109(4):770-80.
+
+PMID- 16395609
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060711
+LR  - 20181113
+IS  - 0179-0358 (Print)
+IS  - 0179-0358 (Linking)
+VI  - 22
+IP  - 3
+DP  - 2006 Mar
+TI  - Hepatic lobectomies in children: experience of a center in the light of changing 
+      management of malignant liver tumors.
+PG  - 228-32
+AB  - Hepatic resection is the main treatment modality for hepatic tumors in childhood. 
+      Advances in diagnostic technique, preoperative preparation, surgical technique, 
+      and postoperative management increased the success rate. The aim of this study is 
+      to report our experience in hepatic lobectomy, which is relatively rare procedure 
+      in childhood. Medical records of 25 patients who underwent hepatic lobectomy 
+      between January 1977 and June 2002 were reviewed retrospectively. Age, gender, 
+      diagnosis, physical examination findings, results of preoperative laboratory 
+      investigations, radiological examination, resectability criteria, preoperative 
+      biopsies, chemotherapies, radiotherapies, postoperative pathological results, 
+      incisions, operation technique, intraoperative transfusions, drains used, 
+      antibiotic prophylaxes, and intraoperative and postoperative complications were 
+      evaluated for all patients. Out of 25 patients with hepatic tumor seven patients 
+      with hepatoblastoma and four patients with hepatocellular carcinoma were given 
+      5.7 +/- 0.3 cycles of chemotherapy before the operation. Right lobectomy (n = 
+      12), left lobectomy (n = 5), extended left lobectomy (n = 4), and extended right 
+      lobectomy (n = 3) and right lobectomy with enucleation of two masses from left 
+      lobe (n = 1) were performed. Intraoperative blood transfusion of 30.7+/-6.0 ml/kg 
+      body weight was necessary. Pathological examination of resected tumors revealed 
+      hepatoblastoma (n=11), mesenchymal hamartoma (n = 5), hepatocellular carcinoma (n 
+      = 4), hemangioendothelioma (n=1), malignant mesenchymal tumor (n = 1), hemangioma 
+      (n = 1), cyst adenoma (n = 1), and metastasis of cellular mesoblastic nephroma (n 
+      = 1). Patients were observed in the intensive care unit for 3.4 +/- 0.3 days. 
+      Postoperative complications were sepsis (n = 1), disseminated intravascular 
+      coagulation (n = 2), fever (n = 3), jaundice (n = 3), intraabdominal abscess (n = 
+      3), ileus (n = 2), and subdiaphragmatic abscess with pleural effusion (n = 1). 
+      Hepatic lobectomy is a major operation, which is feasible yielding curative 
+      results in children. Safe hepatic resections with acceptable blood loss can be 
+      performed by a technique relying on good anatomic dissection and surgical 
+      control.
+FAU - Ekinci, Saniye
+AU  - Ekinci S
+AD  - Department of Pediatric Surgery, Faculty of Medicine, Hacettepe University, 06100 
+      Ankara, Turkey.
+FAU - Karnak, Ibrahim
+AU  - Karnak I
+FAU - Tanyel, F Cahit
+AU  - Tanyel FC
+FAU - Senocak, M Emin
+AU  - Senocak ME
+FAU - Kutluk, Tezer
+AU  - Kutluk T
+FAU - Büyükpamukçu, Münevver
+AU  - Büyükpamukçu M
+FAU - Büyükpamukçu, Nebil
+AU  - Büyükpamukçu N
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060103
+PL  - Germany
+TA  - Pediatr Surg Int
+JT  - Pediatric surgery international
+JID - 8609169
+SB  - IM
+EIN - Pediatr Surg Int. 2006 Aug;22(8):695
+MH  - Child, Preschool
+MH  - Diagnosis, Differential
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Hepatectomy/*methods
+MH  - Humans
+MH  - Infant
+MH  - Liver Neoplasms/diagnosis/*surgery
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Retrospective Studies
+MH  - Tomography, X-Ray Computed
+MH  - Treatment Outcome
+EDAT- 2006/01/06 09:00
+MHDA- 2006/07/13 09:00
+CRDT- 2006/01/06 09:00
+PHST- 2005/09/22 00:00 [accepted]
+PHST- 2006/01/06 09:00 [pubmed]
+PHST- 2006/07/13 09:00 [medline]
+PHST- 2006/01/06 09:00 [entrez]
+AID - 10.1007/s00383-005-1608-1 [doi]
+PST - ppublish
+SO  - Pediatr Surg Int. 2006 Mar;22(3):228-32. doi: 10.1007/s00383-005-1608-1. Epub 
+      2006 Jan 3.
+
+PMID- 11195923
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010329
+LR  - 20191104
+IS  - 0003-3944 (Print)
+IS  - 0003-3944 (Linking)
+VI  - 125
+IP  - 10
+DP  - 2000 Dec
+TI  - [Laparoscopic treatment of solid and cystic tumors of the liver. Study of 33 
+      cases].
+PG  - 941-7
+AB  - AIM OF THE STUDY: Laparoscopic liver surgery is still in its early stages. The 
+      aim of this study was to report our experience in the laparoscopic management of 
+      solid and cystic liver tumours. PATIENTS AND METHODS: From April 1991 to December 
+      1999, 32 patients with various lesions of the liver underwent laparoscopic liver 
+      surgery. One group of patients presented with cysts (n = 15) (11 giant solitary 
+      cysts and 4 polycystic liver diseases) and one group of patients presented with 
+      solid tumours (n = 18): focal nodular hyperplasia (n = 8), haemangioma (n = 6), 
+      adenoma (n = 2), isolated metastasis from a colonic cancer (n = 1) and 
+      hepatocellular carcinoma (n = 1). Fifteen cyst fenestrations and eighteen liver 
+      resections were performed via a laparoscopic approach including 1 right 
+      lobectomy, 5 left lateral segmentectomies, 2 subsegmentectomies IVb, 1 
+      segmentectomy III and 9 non-anatomical resections. RESULTS: Conversion to 
+      laparotomy was performed in one case (3%) at the end of the operation (patient 
+      who had successfully undergone left lateral segmentectomy for hepatocellular 
+      carcinoma) to check the resection margins and surgical transection had been 
+      performed in healthy parenchyma. Mean diameter of solid tumours was 6.5 cm and 
+      15.7 cm for solitary cysts. The mean operating time for hepatic resections was 
+      232 minutes. There was no postoperative mortality. Complications occurred in one 
+      case for each group and consisted in intestinal stricture through a port site 
+      requiring intestinal resection. Mean postoperative hospital stay was 5.6 days for 
+      solid tumours and 7.5 days for cystic lesions. In the group of cystic lesions, 
+      the recurrence rate was 50% with a 5.5-months follow-up. CONCLUSION: Laparoscopic 
+      liver surgery can be safely performed, but requires a good experience in open 
+      hepatic surgery and laparoscopic surgery. The laparoscopic approach is indicated 
+      in patients with symptomatic or atypical benign solid tumour, giant solitary cyst 
+      and polycystic liver disease, located anteriorly on the liver. Indications for 
+      malignant lesions have not been clearly defined and require further information.
+FAU - Descottes, B
+AU  - Descottes B
+AD  - Service de chirurgie viscérale et transplantation, Centre hospitalier et 
+      universitaire, 87000 Limoges, France.
+FAU - Lachachi, F
+AU  - Lachachi F
+FAU - Durand-Fontanier, S
+AU  - Durand-Fontanier S
+FAU - Sodji, M
+AU  - Sodji M
+FAU - Pech de Laclause, B
+AU  - Pech de Laclause B
+FAU - Valleix, D
+AU  - Valleix D
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+TT  - Traitement laparoscopique des tumeurs solides et kystiques du foie. Etude de 33 
+      cas.
+PL  - France
+TA  - Ann Chir
+JT  - Annales de chirurgie
+JID - 0140722
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Constriction
+MH  - Cysts/complications/*surgery
+MH  - Female
+MH  - Humans
+MH  - Laparoscopy/*methods
+MH  - Liver Diseases/complications/*surgery
+MH  - Liver Neoplasms/complications/*surgery
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+EDAT- 2001/02/24 12:00
+MHDA- 2001/04/03 10:01
+CRDT- 2001/02/24 12:00
+PHST- 2001/02/24 12:00 [pubmed]
+PHST- 2001/04/03 10:01 [medline]
+PHST- 2001/02/24 12:00 [entrez]
+AID - S000339440000403X [pii]
+AID - 10.1016/s0003-3944(00)00403-x [doi]
+PST - ppublish
+SO  - Ann Chir. 2000 Dec;125(10):941-7. doi: 10.1016/s0003-3944(00)00403-x.
